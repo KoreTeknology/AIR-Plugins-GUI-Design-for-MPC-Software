@@ -10,28 +10,20 @@ The new themes packages will be distributed and available as FREE download on ou
 
 ---
 
-## OVERVIEW
+## OVERVIEW & RELEASES  ( Themes Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [Download]() |
-| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [Download]()|
-| `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [Download]()|
-| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [Download]()|
-| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [Download]()|
-| `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. | [Download]()|
-
-## RELEASES ( Themes Packages) 
-
-| **Title:** *AIR_SOLINA MK2* | **Status:** *In progress* | [Download]()|
-| --------- | ------ | --- |
-
-| **Title:** *AIR_HYPE MK2* | **Status:** *In progress* | [Download]() |
-| --------- | ------ | --- |
+| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | *[Download]()* |
+| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
+| `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
+| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
+| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [-]()|
+| `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. | [-]()|
 
 ---
 
-## Author
+## Authors
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
 
