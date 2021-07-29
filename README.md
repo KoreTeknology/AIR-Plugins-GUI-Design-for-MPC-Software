@@ -10,7 +10,7 @@ The new themes packages will be distributed and available as FREE download on ou
 
 ---
 
-## OVERVIEW & RELEASES  ( Themes Packages) 
+## OVERVIEW & RELEASES  ( AIR Plugins Themes Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
@@ -20,6 +20,15 @@ The new themes packages will be distributed and available as FREE download on ou
 | `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 | `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [-]()|
 | `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. | [-]()|
+
+---
+
+## SPECIAL RELEASES  ( MPC Software Themes Packages) 
+
+| Themes | Type | Release Date | Description | Get it! |
+| :--- | :---: | :---: | :--- | --- |
+| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | *[Download]()* |
+| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | *[Download]()* |
 
 ---
 
