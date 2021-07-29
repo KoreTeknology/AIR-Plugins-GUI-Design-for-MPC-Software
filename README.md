@@ -1,5 +1,5 @@
 # AIR Plugins GUI Design 
-for MPC Software 2.1x and above 
+> for MPC Software 2.1x and above 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AKAI-AIR Plugins-red.svg" />
 
@@ -37,7 +37,8 @@ The new themes packages will be distributed and available as FREE download on ou
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)
-Collaboration projects are always welcome ;)
+
+Collaboration projects are always welcome!
 
 ---
 
