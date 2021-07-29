@@ -5,7 +5,7 @@ This project contains a set of graphics files and XML files which allows a redes
 ---
 
 ## TASKLIST
-- [x] Step 1: Setup home page and documentation structure
+- [x] Step 1: Setup home page and documentation structure :bulb:
 - [ ] Step 2: Uploading first code parts in documentation
 - [ ] Step 3: Making available the module files and builds
 
