@@ -18,16 +18,16 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | *[Download]()* |
-| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
+| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [in progress]() |
+| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
 | `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
-| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
+| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
 | `Bassline V2` | INST | 08/2021 | A Futuristic looking "Bass" color scheme. | [-]()|
 | `Tubesynth V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 | `Electric V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 | `Odyssey V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 | `Mellotron V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
-| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [-]()|
+| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [in progress]()|
 | `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. | [-]()|
 
 ---
@@ -36,8 +36,8 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | *[Download]()* |
-| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | *[Download]()* |
+| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [in progress]() |
+| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [-]() |
 
 ---
 
