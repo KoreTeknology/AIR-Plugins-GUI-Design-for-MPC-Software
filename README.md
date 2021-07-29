@@ -8,10 +8,12 @@ The new themes packages will be distributed and available as FREE download on ou
 
 ## OVERVIEW
 
-| Themes | Release Date | Description |
-| :--- | :---: | :--- |
-| `Solina V2` | 07/2021 | A "Winds & Strings" instrument with some classic color scheme. |
-| `Hype V2` | 08/2021 | A Futuristic looking "Synth" color scheme. |
+| Themes | Type | Release Date | Description |
+| :--- | :---: | :---: | :--- |
+| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument with some classic color scheme. |
+| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. |
+| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. |
+| `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. |
 
 ## RELEASES ( Themes Packages) 
 
@@ -26,13 +28,16 @@ The new themes packages will be distributed and available as FREE download on ou
 - [ ] Step 2: Uploading first code parts in documentation
 - [ ] Step 3: Making available the module files and builds
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+---
+
+## TUTORIAL: How to install the new themes?
+
+```diff 
+! First, you need to download the desired package, then open the Air Plugins Themes folder in your computer.
+- Copy the original artworks in a safe location in case you want to return to the original design!
++ Then, drag-n-drop the downloaded folder to replace the original files
 ```
+Enjoy !
 
 ---
 
@@ -42,7 +47,7 @@ The new themes packages will be distributed and available as FREE download on ou
 
 <img src="https://img.shields.io/badge/Aktiv-25-9cf.svg" /> <img src="https://img.shields.io/badge/5-Viento-9cf.svg" /> <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" />
 
-Please, feel free to contact me, and/or discuss further developments or ideas for those plugins, thanks ;)
+Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)
 Collaboration projects are always welcome ;)
 
 ---
@@ -59,3 +64,8 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ---
+
+## Acknowledgments
+
+* This work is dedicated to all Akai MPC users ;)
+* i will try to keep all types of files and documentations as clear as possible using syntax highlighting and line referencing
