@@ -35,6 +35,14 @@ The new themes packages will be distributed and available as FREE download on ou
 
 ---
 
+## Acknowledgments
+
+* This work is dedicated to all Akai MPC users ;)
+* These files are intended to work with the latest MPC Software Release (2.10 and above)
+* These packages are tested for both  the **Standalone** & the **Software** versions
+
+---
+
 ## Authors
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
@@ -56,9 +64,3 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
----
-
-## Acknowledgments
-
-* This work is dedicated to all Akai MPC users ;)
-* i will try to keep all types of files and documentations as clear as possible using syntax highlighting and line referencing
