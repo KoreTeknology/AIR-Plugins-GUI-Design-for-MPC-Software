@@ -4,7 +4,7 @@
 
 ## Description of the modified sound generators plugins
 
-&nbsp; | Official Theme | Custom Themes V2 |
+Source: https://www.akaipro.com/mpc-plugin-instruments-insert-effects | Official Theme | Custom Themes V2 |
 :--------------------------------------- | :---: | :------: |
 :musical_keyboard: **AIR Drumsynth (Virtual Instrument)** |  |  |
 DrumSynth is a revolutionary synthesizer drum machine plugin instrument for powerful drum sound design. Enjoy the power to create and sculpt amazing drum sounds from the ground up, run them through a multitude of sound-shaping and audio effects processors then save to your collection of custom user presets, empowering you to quickly build your personal collection of customized percussive textures. | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> |
