@@ -1,7 +1,7 @@
 # AIR Plugins GUI Design 
 > for MPC Software 2.1x and above (Standalone, PC/MAC)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AKAI-AIR Plugins-red.svg" />
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AIR-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC-yellow.svg" />
 
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
