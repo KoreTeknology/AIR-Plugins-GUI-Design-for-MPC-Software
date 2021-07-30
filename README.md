@@ -10,7 +10,7 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[HERE](Documentation/DOCUMENTATION.md)**, and the `License`: **[HERE](#license)**
 
-![logo](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/header_project.png)
+![logo](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/p_shadow.png)
 
 ---
 
