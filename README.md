@@ -10,7 +10,7 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[HERE](Documentation/DOCUMENTATION.md)**, and the `License`: **[HERE](#license)**
 
-![logo](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## OVERVIEW & RELEASES  ( AIR Plugins Themes Packages) 
 
@@ -37,7 +37,7 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 | `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [in progress]() |
 | `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [-]() |
 
----
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## Acknowledgments
 
@@ -55,7 +55,7 @@ Please, feel free to contact me, and/or discuss further developments or ideas fo
 
 Collaboration projects are always welcome!
 
----
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## License
 
