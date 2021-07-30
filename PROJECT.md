@@ -2,7 +2,7 @@
 
 This project contains a set of graphics files and XML files which allows a redesign of the plugins supplied with the MPC software of the famous Akai brand. Each plugins is built from a base, the background and elements such as faders, knobs, and other controllers. The XML file contains all the information about the placement of these elements on the surface of the user interface.
 
----
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## MAIN TASKLIST
 - [x] Step 1: Setup home page and documentation structure :bulb:
