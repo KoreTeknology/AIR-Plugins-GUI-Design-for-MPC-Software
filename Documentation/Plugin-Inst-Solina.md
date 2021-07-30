@@ -1,1 +1,4 @@
-#Solina (AIR Plugin)
+# Solina (AIR Plugin)
+
+## Files details
+
