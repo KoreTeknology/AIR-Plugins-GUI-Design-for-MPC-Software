@@ -7,6 +7,7 @@ for MPC Software 2.1x and above (Standalone, PC/MAC)
 </p>
 <H3 style="height:200px;">&nbsp;</H3>
 
+[comment]: <> (This is a comment, it will not be included)
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
 The aim of this project is to serve a serie of new "Design" for the **AIR Audio Plugins** included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i invite you to go and visit their site: [Akaipro.com](https://www.akaipro.com/mpc-software). 
@@ -24,13 +25,6 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 | `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
 | `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
 | `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
-| `Bassline V2` | INST | 08/2021 | A Futuristic looking "Bass" color scheme. | [-]()|
-| `Tubesynth V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
-| `Electric V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
-| `Odyssey V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
-| `Mellotron V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
-| `Param EQ V2` | FX | 08/2021 | An EQ with some Pro color scheme. | [in progress]()|
-| `Compressor V2` | FX | 08/2021 | A Futuristic looking "Fx" color scheme. | [-]()|
 
 ---
 
