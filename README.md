@@ -10,7 +10,7 @@ for MPC Software 2.1x and above (Standalone, PC/MAC)
 [comment]: <> (This is a comment, it will not be included)
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
-The aim of this project is to serve a serie of new "Design" for the **AIR Audio Plugins** included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i invite you to go and visit their site: [Akaipro.com](https://www.akaipro.com/mpc-software). 
+The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
 The new themes packages will be distributed and available as **FREE Download** on our [Facebook Fans Page](https://www.facebook.com/groups/2455369201273499), stay tuned for more to come... 
 
 Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[HERE](Documentation/DOCUMENTATION.md)**, and the `License`: **[HERE](#license)**
