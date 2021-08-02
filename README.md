@@ -32,7 +32,7 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [Download](Releases/MPC Mixer/Custom_Mixer_Fader.zip) |
+| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [**Download**](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/9295be3cb0f94a09fea3b45d4707953afb137931/Releases/MPC%20Mixer/Custom_Mixer_Fader.zip) |
 | `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [in progress]() |
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
