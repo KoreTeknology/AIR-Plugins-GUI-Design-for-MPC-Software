@@ -25,7 +25,6 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 | `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [in progress]() |
 | `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
 | `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
-| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 
 ---
 
