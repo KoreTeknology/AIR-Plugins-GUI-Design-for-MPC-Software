@@ -16,6 +16,10 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[HERE](Documentation/DOCUMENTATION.md)**, and the `License`: **[HERE](#license)**
 
+```diff 
+! By Downloading these files packages, you are accepting the terms of the License CC BY NC SA 4.0 !
+```
+
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## OVERVIEW & RELEASES  ( AIR Plugins Themes Packages) 
