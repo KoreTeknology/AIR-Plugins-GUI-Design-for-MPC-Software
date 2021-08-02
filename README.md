@@ -53,10 +53,8 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
 
-<p style="background-color:green;color:red;Corner-radius:5px;">Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)
+Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
-
-<span style="color:orange;">Word up</span>
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
