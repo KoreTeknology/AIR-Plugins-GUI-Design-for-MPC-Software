@@ -41,7 +41,7 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 * This work is dedicated to all Akai MPC users ;)
 * These files are intended to work with the latest MPC Software Release (2.10 and above)
-* These packages are tested for both  the **Standalone** & the **Software** versions
+* These packages are supposed to work well in both  the **Standalone** & the **Software** versions
 
 ---
 
