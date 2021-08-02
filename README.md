@@ -3,7 +3,8 @@
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AIR-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC-yellow.svg" />
 </p>
 <p align="center">
-for MPC Software 2.1x and above (Standalone, PC/MAC)
+  <b>for MPC Software 2.1x and above (Standalone,PC/MAC),</b><br/>
+  by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]
 </p>
 <H3 style="height:200px;">&nbsp;</H3>
 
@@ -24,7 +25,7 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 | `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [in progress]() |
 | `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
 | `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
-| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [in progress]()|
+| `Hybrid V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
 
 ---
 
@@ -32,8 +33,8 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [in progress]() |
-| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [-]() |
+| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [**Download**](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/9295be3cb0f94a09fea3b45d4707953afb137931/Releases/MPC%20Mixer/Custom_Mixer_Fader.zip) |
+| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [in progress]() |
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
