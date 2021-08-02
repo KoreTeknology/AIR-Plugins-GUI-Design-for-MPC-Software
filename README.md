@@ -3,7 +3,8 @@
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AIR-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC-yellow.svg" />
 </p>
 <p align="center">
-for MPC Software 2.1x and above (Standalone, PC/MAC)
+  <b>for MPC Software 2.1x and above (Standalone,PC/MAC),</b><br/>
+  by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]
 </p>
 <H3 style="height:200px;">&nbsp;</H3>
 
