@@ -23,4 +23,11 @@ The new Mellotron plugin instrument is a recreation of the legendary tape sample
 :musical_keyboard: **AIR Hype (Virtual Instrument)** | |  |
 The AIR Hype Plugin Instrument for MPC is an advanced sound library with a large offering of inspiring sound instruments and effects. These breath-taking sounds will quickly spark any producer's creativity and make music production a fluid, uninhibited process. AIR Hype delivers hundreds of emotive sounds and presets while its intuitive layout and numerous macro controllers make the sound design and shaping process fast and responsive. Create music and craft your unique sonics seamlessly with a world class synthesizer plugin. | <img src="images/mpc-plugins-effects-hype-img.png"> | <img src="images/mpc-plugins-effects-hype-img.png"> |
 
+## Description of the modified MPC Software GUI Elements
+
+Source: https://www.akaipro.com | Official Theme | Custom Themes V2 |
+:--------------------------------------- | :---: | :------: |
+:musical_keyboard: **MPC Mixer (Integrated)** |  | [Tutorial/Details](MPC-GUI-MIXER.md) |
+DrumSynth is a revolutionary synthesizer drum machine plugin instrument for powerful drum sound design. Enjoy the power to create and sculpt amazing drum sounds from the ground up, run them through a multitude of sound-shaping and audio effects processors then save to your collection of custom user presets, empowering you to quickly build your personal collection of customized percussive textures. | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> |
+
 
