@@ -45,7 +45,7 @@ Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[H
 
 ---
 
-## Authors
+## Author
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
 
