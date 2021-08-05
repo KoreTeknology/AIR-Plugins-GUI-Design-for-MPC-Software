@@ -3,7 +3,7 @@
 ![akai link](https://d1jtxvnvoxswj8.cloudfront.net/wysiwyg/akai-pro/pdp/mpc-air-hype-synth/mpc-air-hype-synth-collage-a.png)
 
 
-This tutorial is intended for **advanced and experienced users**. If you are a beginner in theme customization, i suggest you to start from the [Basic Solina Tutorial](TUTORIAL-SOLINA.md). If you have some programming basics, it will help you understand the different terms used here. Also, if your graphic skills allow you to edit and publish beautiful images, feel free to modify some images in the interface. Each theme is located in a separate **folder** containing all the files needed to display the plugin.
+This tutorial is intended for **advanced and experienced users**. If you are a beginner in theme customization, i suggest you to start from the **[Basic Solina Tutorial](TUTORIAL-SOLINA.md)**. If you have some programming basics, it will help you understand the different terms used here. Also, if your graphic skills allow you to edit and publish beautiful images, feel free to modify some images in the interface. Each theme is located in a separate **folder** containing all the files needed to display the plugin.
 
 The **"HYPE PLUGIN SKINS"** folder includes:
 
