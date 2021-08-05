@@ -35,7 +35,7 @@ The new themes packages will be distributed and available as **FREE Download** o
 | `Solina "Armor Green"` | INST | 07/2021 | A light instrument color scheme. | [-]() |
 | `Hype "Dark Matter"` | INST | 08/2021 | A futuristic looking "Synth" color scheme. | [0.2.0]()|
 | `Hype "White Cream"` | INST | 08/2021 | A retro looking "Synth" color scheme. | [-]()|
-| `Drumsynth "Classic Edition"` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
+| `Drumsynth "Classic Edition"` | INST | 08/2021 | A Futuristic looking "Drums" color scheme. | [-]()|
 
 ---
 
