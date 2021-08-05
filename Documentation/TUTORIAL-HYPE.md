@@ -238,7 +238,7 @@ We also know the **size of the image file** we are up to load for the **knob** e
 This image "mix.png" is **180x15240px**, **127 vertical steps**, so one step image is **180x120px (WxH)**.
 Each boudary statement is base on the top-left corner, that means the first pixel on the top left corner of the GUI is located at **0,0**; and the last bottom-right corner is located at **1278,628**.
 
-We may look now at how to replace this image by creating a new file (*using Protoshop or Gimp*).
+We may look now at how to replace this image by creating a new file (*using [Photoshop](https://www.adobe.com/products/photoshop.html) or [Gimp](https://www.gimp.org/)*).
 I am creating a template for my **knob**, adding markers between each steps to delimitate the area available for each sequenced images. The final image file contains **127 variations steps** of the knob´s rotation.
 
 Ok, it works, it is fine but let´s go futher. i want to move this knob and its component´s elements to be aligned on the left side of the page. I will place it at **10,10**. I also want to change the aspect of the image to be **150x150px**, change the color of the bottom data.
