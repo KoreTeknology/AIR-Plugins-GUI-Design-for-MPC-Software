@@ -29,9 +29,13 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Solina V2` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [0.9.2]() |
-| `Hype V2` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [0.2.0]()|
-| `Drumsynth V2` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
+| `Solina "Classic Gold"` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [0.9.2]() |
+| `Solina "Artic Blue"` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [0.9.1]() |
+| `Solina "Red Line"` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [-]() |
+| `Solina "Armor Green"` | INST | 07/2021 | A "Winds & Strings" instrument Classic color scheme. | [-]() |
+| `Hype "Dark Matter"` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [0.2.0]()|
+| `Hype "White Cream"` | INST | 08/2021 | A Futuristic looking "Synth" color scheme. | [-]()|
+| `Drumsynth "Classic Edition"` | INST | 08/2021 | A Futuristic looking "Drum Machine" color scheme. | [-]()|
 
 ---
 
