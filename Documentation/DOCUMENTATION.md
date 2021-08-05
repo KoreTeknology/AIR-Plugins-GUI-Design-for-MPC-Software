@@ -1,6 +1,6 @@
 # Full Documentation
 
-If you are interested to create your own theme, i suggest you to go to my [Beginners Tutorial](TUTORIAL-SOLINA.md) or the [Advanced Tutorial](TUTORIAL-HYPE.md) about the re-design of the already famous plugins, included into the last Akai MPC software version 2.10. Otherwise, you can just download the themes and install them, following the included **"README.txt"** file in each theme folder.
+If you are interested to create your own theme, i suggest you to go to my **[Beginners Tutorial](TUTORIAL-SOLINA.md)** or the **[Advanced Tutorial](TUTORIAL-HYPE.md)** about the re-design of the already famous plugins, included into the last Akai MPC software version 2.10. Otherwise, you can just download the themes and install them, following the included **"README.txt"** file in each theme folder.
 
 ---
 
@@ -8,7 +8,7 @@ If you are interested to create your own theme, i suggest you to go to my [Begin
 
 Source: https://www.akaipro.com/mpc-plugin-instruments-insert-effects | Official Theme | Custom Themes V2 |
 :--------------------------------------- | :---: | :------: |
-:musical_keyboard: **AIR Drumsynth (Virtual Instrument)** |  | [Tutorial/Details](PLUGIN-INST-SOLINA.md) |
+:musical_keyboard: **AIR Drumsynth (Virtual Instrument)** |  | [-]() |
 DrumSynth is a revolutionary synthesizer drum machine plugin instrument for powerful drum sound design. Enjoy the power to create and sculpt amazing drum sounds from the ground up, run them through a multitude of sound-shaping and audio effects processors then save to your collection of custom user presets, empowering you to quickly build your personal collection of customized percussive textures. | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> | <img src="images/mpc-plugins-effects-drumsynth-a-img.png"> |
 :musical_keyboard: **AIR Bassline (Virtual Instrument)** | |  |
 The AIR Solina Plugin is based on the classic 6-timbre polyphonic keyboard instrument featuring Contrabass, Cello, Viola, Violin, Trumpet and Horn selections with independent volume, pan and pitch control. Combine them for a massive sonic experience to liven up even the most thrilling music production. AIR Solina also includes the new Flavor section for added texture and color to its sound. Also built-in is a wide array of effects including Delay, Reverb, and Chorus. AIR Solina is the sound designers dream with no shortage of knobs to twist and turn for incredibly unique keyboard tones. | <img src="images/mpc-plugins-effects-bassline-a-img.png"> | <img src="images/mpc-plugins-effects-bassline-a-img.png"> |
