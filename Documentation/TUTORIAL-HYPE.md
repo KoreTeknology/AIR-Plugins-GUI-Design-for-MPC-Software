@@ -14,7 +14,7 @@ Each one contains some sort of data to publish a user interface for the plugin.
 
 ---
 
-Let´s see in detail, what is there and what we can do or modify to get the desired effect or interface composition.
+**Let´s see in detail, what is there and what we can do or modify to get the desired effect or interface composition.**
 
 - [x] The "version" section only contains a single number as "data object referencing tag".
 
