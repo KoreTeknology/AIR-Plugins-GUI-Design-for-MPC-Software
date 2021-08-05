@@ -1,6 +1,6 @@
 # Full Documentation
 
-If you are interested to create your own theme, i suggest you to go to my [Tutorial](TUTORIAL-HYPE.md) about the re-design of the already famous plugin **"HYPE"**. Otherwise, you can just download the themes and install them, following the included **"README.txt"** file in each theme folder.
+If you are interested to create your own theme, i suggest you to go to my [Beginners Tutorial](TUTORIAL-SOLINA.md) or the [Advanced Tutorial](TUTORIAL-HYPE.md) about the re-design of the already famous plugins, included into the last Akai MPC software version 2.10. Otherwise, you can just download the themes and install them, following the included **"README.txt"** file in each theme folder.
 
 ---
 
