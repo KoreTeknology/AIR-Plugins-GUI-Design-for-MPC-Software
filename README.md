@@ -4,9 +4,10 @@
 </p>
 <p align="center">
   <b>for MPC Software 2.10x and above (Standalone,PC/MAC),</b><br/>
-  by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]
+  by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 </p>
-<H3 style="height:200px;">&nbsp;</H3>
+<H3 style="height:100px;">&nbsp;</H3>
 
 [comment]: <> (This is a comment, it will not be included)
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
