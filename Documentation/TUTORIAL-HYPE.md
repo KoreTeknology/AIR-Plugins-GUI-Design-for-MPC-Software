@@ -104,7 +104,7 @@ Open the **TIU.json** file included into the theme folder.
 Where are located the content for this control in this file? search for:
 
 ### from Page 1 "MACRO" (componentDefinitions), Line 1047:
-```json
+```yaml
 {
                     "key": "mix",
                     "value": {
@@ -240,7 +240,7 @@ Where are located the content for this control in this file? search for:
 ---
 
 ### from Page 1 "MACRO" (tabs), Line 3534:
-```json
+```yaml
 {
                             "version": 1,
                             "componentData": {
