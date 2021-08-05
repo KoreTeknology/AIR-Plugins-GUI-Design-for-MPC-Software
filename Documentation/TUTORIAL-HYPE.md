@@ -6,8 +6,6 @@ The main Object is a **"PageData" container**, it has 4 sections:
 - info
 - tabs
 
----
-
 Each one contains some sort of data to publish a user interface for the plugin.
 ```diff 
 ! from there, you must understand that we cannot add more features than it has before
@@ -28,7 +26,7 @@ Let´s see in detail, what is there and what we can do or modify to get the desi
 
 *by this technique, you can make a single page plugin and place all the controls over it ;)
 ```diff 
-Dont create a plugin that will not fit the Akai MPC Software maximum dimensions in pixels > 1280x629px
+- Dont create a plugin that will not fit the Akai MPC Software maximum dimensions in pixels > 1280x629px
 ```
 ---
 
@@ -36,6 +34,8 @@ Now, we understand how to modify our plugin GUI, to accomodate the design to our
 
 It has 5 pages in a row, from left to right **(6400x629px)**, this is a huge surface!
 Let´s look at the first page, **6 main controls** with strange shapes with basic synthesis params, **8 controls** for filter, distortions, Fx and Master Volume, and a **set of switches** for each section of the synth. Well, let´s try something simple, edit the first param-control: **"layer {oscillators} mix"**!
+
+---
 
 Open the **TIU.json** file included into the theme folder.
 Where are located the content for this control in this file? search for:
@@ -174,6 +174,7 @@ Where are located the content for this control in this file? search for:
 },
 ```
 
+---
 
 ### from Page 1 "MACRO" (tabs), Line 3534:
 ```json
@@ -205,6 +206,7 @@ Where are located the content for this control in this file? search for:
                             }
 },
 ```
+---
 
 First of all, we have here a **component (layer mix)** that includes several caracteristics:
 - **"actions"**: Mouse Down, Double Click, Enter Pressed
@@ -228,6 +230,9 @@ We also know the **size of the image file** we are up to load for the **knob** e
 "filmStrip": "mix.png",
 "numFrames": 127,
 ```
+
+---
+
 This image "mix.png" is **180x15240px**, **127 vertical steps**, so one step image is **180x120px (WxH)**.
 Each boudary statement is base on the top-left corner, that means the first pixel on the top left corner of the GUI is located at **0,0**; and the last bottom-right corner is located at **1278,628**.
 
