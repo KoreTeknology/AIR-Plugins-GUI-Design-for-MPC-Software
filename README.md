@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b><a href="">Homepage</a> | <a href="PROJECT.md">Project Description</a> |<a href="Documentation/TUTORIAL-HYPE.md">Tutorial</a> | <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
+  <b><a href="">Homepage</a> | <a href="PROJECT.md">Project Description</a> |<a href="Documentation/TUTORIAL-HYPE.md">Tutorials</a> | <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 <H3 style="height:50px;">&nbsp;</H3>
 
