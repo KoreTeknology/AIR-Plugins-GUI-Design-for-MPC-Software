@@ -277,18 +277,18 @@ First of all, we have here a **component (layer mix)** that includes several car
 - **"componentsData"**: Focus, Knob, Label
 
 What are we interested for? we will look at the **boudary location** of the control´s bloc in the tabs section:
-```json
+```yaml
 "boundsType": "Absolute",
 "bounds": "121 57 190 165"
 ```
 and then we enter the **graphical space** of the control elements:
-```json
+```yaml
 Focus: "bounds": "0 0 190 165"
 Knob: "bounds": "5 5 180 120"
 Label: "bounds": "0 130 190 30"
 ```
 We also know the **size of the image file** we are up to load for the **knob** element:
-```json
+```yaml
 "knobType": "FilmStrip",
 "filmStrip": "mix.png",
 "numFrames": 127,
