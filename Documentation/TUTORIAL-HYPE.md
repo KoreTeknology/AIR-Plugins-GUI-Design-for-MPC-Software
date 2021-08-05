@@ -100,7 +100,7 @@ Let´s look at the first page, **6 main controls** with strange shapes with basi
 
 ---
 
-Open the **TIU.json** file included into the theme folder.
+Open the **TUI.json** file included into the theme folder.
 Where are located the content for this control in this file? search for:
 
 ### from Page 1 "MACRO" (componentDefinitions), Line 1047:
