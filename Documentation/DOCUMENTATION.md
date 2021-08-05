@@ -1,5 +1,7 @@
 # Full Documentation
 
+If you are interested to create your own theme, i suggest you to go to my [Tutorial](TUTORIAL-HYPE.md) about the re-design of the already famous plugin **"HYPE"**. Otherwise, you can just download the themes and install them, following the included **"README.txt"** file in each theme folder.
+
 ---
 
 ## Description of the modified sound generators plugins
