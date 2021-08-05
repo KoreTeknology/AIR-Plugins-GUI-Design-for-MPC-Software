@@ -3,7 +3,63 @@
 ![akai link](https://d1jtxvnvoxswj8.cloudfront.net/wysiwyg/akai-pro/pdp/mpc-air-hype-synth/mpc-air-hype-synth-collage-a.png)
 
 
-This tutorial is intended for **advanced and experienced users**. If you have some programming basics, it will help you understand the different terms used here. Also, if your graphic skills allow you to edit and publish beautiful images, feel free to modify some images in the interface. Each theme is located in a separate **folder** containing all the files needed to display the plugin. Before we do any modification to the plugin, let s have a look at the **design file** structure. We will use this JSON programming language all over this tutorial, if you are not familiar with it, i suggest you to visit the [Introducing JSON Website](https://www.json.org/json-en.html) and learn from the ground how it is made and what are the benefit of using this data file format.
+This tutorial is intended for **advanced and experienced users**. If you have some programming basics, it will help you understand the different terms used here. Also, if your graphic skills allow you to edit and publish beautiful images, feel free to modify some images in the interface. Each theme is located in a separate **folder** containing all the files needed to display the plugin.
+
+The **"HYPE PLUGIN SKINS"** folder includes:
+
+## The background:
+
+| BACKGROUNDS | Page 1  | Page 2  | Page 3  | Page 4  | Page 5  | Dimensions (px) |
+| --- | --- | --- | --- | --- | --- | :---: |
+| BG Pages: | fbank_01.png | fbank_02.png | fbank_03.png | fbank_04.png | fbank_05.png | **1280x629** |
+
+## The Switch buttons:
+
+| GUI Elements: Switches (Buttons with 2 states) | Images OFF  | Images ON  | Dimensions (px) |
+| --- | --- | --- | :---: |
+| Compressor Switch: | comp_off.png  |  comp_on.png | **213x70** |
+| Delay Switch: | delay_off.png  |  delay_on.png | **213x70** |
+| Distortion Switch: | dist_off.png  |  dist_on.png | **213x70** |
+| Fx Switch: | fx_off.png  |  fx_on.png | **10x10** |
+| Hype Switch: | hype_off.png  |  hype_on.png | **213x70** |
+| Lfo Switch: | lfo_off.png  |  lfo_on.png | **68x58** |
+| Limiter Switch: | limit_off.png  |  limit_on.png | **213x70** |
+| Modulation Switch: | mod_off.png  |  mod_on.png | **213x70** |
+| Pump Switch: | pump_off.png  |  pump_on.png | **213x70** |
+| Reverb Switch: | reverb_off.png  |  reverb_on.png | **213x70** |
+
+## The Sliders and Knobs:
+
+| GUI Elements: Sliders & Knobs (Vertical steps) | Images  | Dimensions (px) |
+| --- | --- | :---: |
+| Cylinder Slider: | cylinder.png  | **180x15240** |
+| Diamond Slider: | diamond.png  | **180x15240** |
+| Hexagon Slider: | hexagon.png  | **180x15240** |
+| Mix Slider: | mix.png  | **180x15240** |
+| Pyramid Slider: | pyramid.png  | **180x15240** |
+| Square Slider: | square.png  | **180x15240** |
+| Hype Hi Slider: | hype_hi.png  | **98x61722** |
+| Hype Low Slider: | hype_low.png  | **98x61722** |
+| Hype X-hi Slider: | hype_xhi.png  | **98x61722** |
+| Hype X-low Slider: | hype_xlow.png  | **98x61722** |
+| Slider: | slider.png  | **40x24638** |
+| Knob: | knob.png  | **70x8890** |
+| Large knob: | knob_lg.png  | **87x11136** |
+| Setup knob: | softknob_setup.png  | **26x3302** |
+| Blue knob: | softknob_blue.png  | **41x5207** |
+| Green knob: | softknob_green.png  | **26x3302** |
+
+## The structured data/setup files:
+
+| GUI structure: JSON files |  Data | Weight (Kb) |
+| --- | --- | :---: |
+| Main: | TUI.json  | **326** |
+| Qlinks: | Q-Links.json | **4.27** |
+| Extra: | Q-Links - 8by1.json | **4.27** |
+
+---
+
+Before we do any modification to the plugin, let s have a look at the **design file** structure. We will use this JSON programming language all over this tutorial, if you are not familiar with it, i suggest you to visit the [Introducing JSON Website](https://www.json.org/json-en.html) and learn from the ground how it is made and what are the benefit of using this data file format.
 
 The main Object is a **"PageData" container**, it has 4 sections:
 - version
