@@ -59,6 +59,8 @@ The **"HYPE PLUGIN SKINS"** folder includes:
 
 ---
 
+# Customizations and Compositions
+
 Before we do any modification to the plugin, let s have a look at the **design file** structure. We will use this JSON programming language all over this tutorial, if you are not familiar with it, i suggest you to visit the [Introducing JSON Website](https://www.json.org/json-en.html) and learn from the ground how it is made and what are the benefit of using this data file format.
 
 The main Object is a **"PageData" container**, it has 4 sections:
