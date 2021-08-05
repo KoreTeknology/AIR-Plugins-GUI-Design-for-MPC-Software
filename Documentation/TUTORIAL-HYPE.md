@@ -1,4 +1,4 @@
-# Tutorial "Hype" plugin - Plugin structure JSON/PNG FILES
+# Tutorial "Hype" plugin - Plugin structure JSON/PNG files
 
 The main Object is a **"PageData" container**, it has 4 sections:
 - version
