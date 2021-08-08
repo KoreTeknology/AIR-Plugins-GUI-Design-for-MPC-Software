@@ -4,6 +4,8 @@ This project contains a set of graphics files and XML files which allows a redes
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
+You will find in this project several files and documents. From there you can download the files for your plugin OR/AND learn from the tutorials how to do your won theme.
+
 ## MAIN TASKLIST
 - [x] Step 1: Setup home page and documentation structure :bulb:
 - [x] Step 2: Uploading first code parts in documentation
