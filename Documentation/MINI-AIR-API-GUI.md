@@ -41,7 +41,7 @@ All plugin´s themes are constructed in the same way, thanks to a list of refere
 | 0 (1/ENSEMBLE) | **Parameter 25** | Split/Dual (btnDual)  | 2572 |
 | 0 (1/ENSEMBLE) | **Parameter 27** | Volume upper (sliderMix)  | 2601 |
 | 0 (1/ENSEMBLE) | **Parameter 70** | Master Level (knobLg)  | 2630 |
-| --- |  |  |  |
+|  |  |  |  |
 | 1 (2/SOUND) | **Parameter 28** | Crescendo (sliderSound)  | 2723 |
 | 1 (2/SOUND) | **Parameter 29** | Sustain (sliderSound)  | 2752 |
 | 1 (2/SOUND) | **Parameter 30** | Formant (sliderSoundBi)  | 2781 |
@@ -52,6 +52,19 @@ All plugin´s themes are constructed in the same way, thanks to a list of refere
 | 1 (2/SOUND) | **Parameter 35** | AT Vibrato (knobLg)  | 2926 |
 | 1 (2/SOUND) | **Parameter 36** | Vibrato SPeed (knobLg)  | 2955 |
 | 1 (2/SOUND) | **Parameter 69** | Sample Poly (valueSlider)  | 2984 |
+|  |  |  |  |
+| 2 (3/FLAVOR) | **Parameter 42** | Flavor On (btnOn)  | 3076 |
+| 2 (3/FLAVOR) | **Parameter 43** | Flavor Timbre (flavorType)  | 3105 |
+| 2 (3/FLAVOR) | **Parameter 44** | Flavor Depth (sliderSound)  | 3134 |
+| 2 (3/FLAVOR) | **Parameter 45** | Flavor Vinyl Dist (knobLgTall)  | 3163 |
+| 2 (3/FLAVOR) | **Parameter 46** | Flavor Vinyl Noise (knobLgTall)  | 3192 |
+| 2 (3/FLAVOR) | **Parameter 47** | Flavor Flutter (knobLgTall)  | 3221 |
+| 2 (3/FLAVOR) | **Parameter 48** | Flavor Monofy (knobLgTall)  | 3250 |
+|  |  |  |  |
+| 3 (4/CHORUS/EQ) | **Parameter 37** | Chorus On (btnOn)  | 3341 |
+
+
+
 
 
 
