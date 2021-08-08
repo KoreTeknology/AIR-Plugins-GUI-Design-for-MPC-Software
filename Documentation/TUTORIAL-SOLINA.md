@@ -2,7 +2,7 @@
 
 This tutorial is intended for **beginner users**. If you have some programming basics, it will help you understand the different terms used here. Also, if your graphic skills allow you to edit and publish beautiful images, feel free to modify some images in the interface. Each theme is located in a separate **folder** containing all the files needed to display the plugin.
 
-![Solina prview](images/mpc-plugins-effects-solina-img.png)
+![Solina prview](images/structure-solina.jpg)
 
 
 The **"SOLINA PLUGIN SKINS"** folder includes:
