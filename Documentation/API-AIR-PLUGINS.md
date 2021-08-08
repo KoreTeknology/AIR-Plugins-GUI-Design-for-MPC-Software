@@ -8,4 +8,4 @@ This document presents the keys and values associated with the interactive compo
 
 All plugin´s themes are constructed in the same way, thanks to a list of references (parameters) and a list of components (controls). Each plugin then has a JSON file which links these elements.
 
-[Solina References]()
+[Solina References](API-AIR-SOLINA.md)
