@@ -116,7 +116,7 @@ Where are located the content for this control in this file? search for:
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
-## Exemple: 1 Tab (various Sub-components)
+## Exemple: 1 Tab (various Sub-components) - TAB 3 (Flavor)
 ```yaml
 Line 3021 - Component >>> "fnKeyIndex": 2
 "tabName": "FLAVOR"
@@ -167,7 +167,7 @@ Line 3250 - Sub-component >>> "type": "knobLgTall"
 ```
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
-## Exemple: 1 Type (slider built on 3 Sub-components)
+## Exemple: 1 Type (slider built on 3 Sub-components) - Vertical Slider
 ```yaml
 Line 928 - "key": "sliderSound"
 size= 80x245px
