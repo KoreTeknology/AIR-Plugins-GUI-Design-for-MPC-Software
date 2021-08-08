@@ -86,6 +86,115 @@ Let´s look at the first page, **6 main controls** with strange shapes with basi
 Open the **TUI.json** file included into the theme folder.
 Where are located the content for this control in this file? search for:
 
-### from Page 1 "MACRO" (componentDefinitions), Line 1047:...
+## 5 Pages/Tabs Plugin:
 
-To be continued...
+```yaml
+"page 1": "ENSEMBLE"
+"page 2": "SOUND"
+"page 3": "FLAVOR"
+"page 4": "CHORUS/EQ"
+"page 5": "DELAY/REVERB"
+```
+
+## Various types of components used in this GUI:
+```yaml
+- btnOn
+- btnEnsemble
+- btnDual
+- valueSlider
+- comboBox
+- flavorType
+- knobPan
+- sliderMix
+- sliderSound
+- sliderFx
+- sliderSoundBi
+- knobLg
+- knobLgTall
+- knobOct
+```
+
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+
+## Exemple: 1 Tab (various Sub-components)
+```yaml
+Line 3021 - Component >>> "fnKeyIndex": 2
+"tabName": "FLAVOR"
+"colour": "ff1e1d1e"
+"image": ""
+
+
+Line 3045 - Sub-component >>> "type": "Image"
+"name": "Image"
+"value": "Invalid"
+"image": "fbank_03_bg.png"
+"bounds": "0 0 1280 630"
+
+Line 3077 - Sub-component >>> "type": "btnOn"
+"name": "Flavor On"
+"value": "Parameter 42"
+"bounds": "1074 68 121 74"
+
+Line 3106 - Sub-component >>> "type": "flavorType"
+"name": "Flavor Timbre"
+"value": "Parameter 43"
+"bounds": "122 241 216 230"
+
+Line 3134 - Sub-component >>> "type": "sliderSound"
+"name": "Flavor Depth"
+"value": "Parameter 44"
+"bounds": "357 298 121 295"
+
+Line 3163 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Vinyl Dist"
+"value": "Parameter 45"
+"bounds": "509 370 155 217"
+
+Line 3192 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Vinyl Noise"
+"value": "Parameter 46"
+"bounds": "669 370 155 217"
+
+Line 3221 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Flutter"
+"value": "Parameter 47"
+"bounds": "829 270 155 217"
+
+Line 3250 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Monofy"
+"value": "Parameter 48"
+"bounds": "989 270 155 217"
+```
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+
+## Exemple: 1 Type (slider built on 3 Sub-components)
+```yaml
+Line 928 - "key": "sliderSound"
+size= 80x245px
+
+Line 971 - Focus
+"name": "Focus"
+"type": "Focus"
+"backgroundColour": "10ffffff"
+"outlineColour": "ffe81f40"
+"backgroundInset": 4.0
+"outlineThickness": 1.0
+
+Line 998 - Knob
+"name": "Knob"
+"type": "Knob"
+"knobType": "FilmStrip"
+"filmStrip": "slider_long.png"
+"numFrames": 127
+"bounds": "20 0 80 245"
+
+Line 1026 - Data Bloc 
+"name": "Label"
+"type": "Label"
+"name": "Titillium Web"
+"style": "SemiBold"
+"height": 24.0
+"colour": "ffffffff"
+"justification": "horizontallyCentred verticallyCentred"
+"bounds": "0 255 121 28"
+```
