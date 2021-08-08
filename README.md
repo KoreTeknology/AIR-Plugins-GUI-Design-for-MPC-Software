@@ -12,11 +12,12 @@
   <b><a href="">Homepage</a> | <a href="PROJECT.md">Project Description</a> | <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 <p align="center">
-  <b>Tutorials: <a href="Documentation/TUTORIAL-SOLINA.md">Beginner</a> | <a href="Documentation/TUTORIAL-HYPE.md">Advanced</a> | <a href="Documentation/TUTORIAL-DRUMSYNTH.md">Pro</a>
+  <b>Tutorials: <a href="Documentation/TUTORIAL-SOLINA.md">Beginner</a> | <a href="Documentation/TUTORIAL-HYPE.md">Advanced</a> | <a href="Documentation/TUTORIAL-DRUMSYNTH.md">Pro</a></b>
 </p>
 <H3 style="height:50px;">&nbsp;</H3>
 
 [comment]: <> (This is a comment, it will not be included)
+  
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
 The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
