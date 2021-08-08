@@ -4,6 +4,7 @@ This tutorial is intended for **beginner users**. If you have some programming b
 
 ![Solina prview](images/structure-solina.jpg)
 
+---
 
 The **"SOLINA PLUGIN SKINS"** folder includes:
 
