@@ -9,6 +9,8 @@ The **"SOLINA PLUGIN SKINS"** folder includes:
 
 ## The background:
 
+The plugin background is made up of a single image for each page. The image may contain a simple instrument panel but also button shadows, and other details. Each page or tab contains its own background and additional components.
+
 | BACKGROUNDS | Page 1  | Page 2  | Page 3  | Page 4  | Page 5  | Dimensions (px) |
 | --- | --- | --- | --- | --- | --- | :---: |
 | BG Pages: | fbank_01.png | fbank_02.png | fbank_03.png | fbank_04.png | fbank_05.png | **1280x630** |
