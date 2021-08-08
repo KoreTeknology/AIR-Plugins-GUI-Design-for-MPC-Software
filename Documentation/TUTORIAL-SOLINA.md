@@ -79,7 +79,7 @@ Each one contains some sort of data to publish a user interface for the plugin.
 Now, we understand how to modify our plugin GUI, to accomodate the design to our preferences. The next step is start applying changes, but before that, dont forget to make a copy of the original folder !!! Let´s go for the plugin **"SOLINA"** :) I personaly dont like the original design of this nice little synth, the poor and non-logical graphic design and the complete chaos in the page contents organisation... but this is how i feel, doesn t mean we are equal on those feelings.
 
 It has 5 pages in a row, from left to right **(6400x629px)**, this is a huge surface!
-Let´s look at the first page, **6 main controls** with strange shapes with basic synthesis params, **8 controls** for filter, distortions, Fx and Master Volume, and a **set of switches** for each section of the synth. Well, let´s try something simple, edit the first param-control: **"layer {oscillators} mix"**!
+Let´s look at the first page, **6 main controls** for instruments (mix, mute, pan and octave), **2 controls** for EQ (Bass, Upper), and a **set of switches** for Ensemble and Dual Voices, and finally, a **Main volume** knob.
 
 ---
 
