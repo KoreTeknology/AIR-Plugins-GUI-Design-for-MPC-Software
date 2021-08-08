@@ -1,4 +1,4 @@
-# API (Mini) for designing new themes for the AIR plugins
+# API 1.1 (08/08/2021) for designing new themes for the AIR plugins
 
 This document presents the keys and values associated with the interactive components of the user interfaces of AIR plugins, present in the latest versions of Akai MPC software. You will find here all the reference information to develop your own graphic themes.
 
@@ -62,9 +62,34 @@ All plugin´s themes are constructed in the same way, thanks to a list of refere
 | 2 (3/FLAVOR) | **Parameter 48** | Flavor Monofy (knobLgTall)  | 3250 |
 |  |  |  |  |
 | 3 (4/CHORUS/EQ) | **Parameter 37** | Chorus On (btnOn)  | 3341 |
-
-
-
-
+| 3 (4/CHORUS/EQ) | **Parameter 38** | Chorus Rate (sliderFx)  | 3370 |
+| 3 (4/CHORUS/EQ) | **Parameter 39** | Chorus Depth (sliderFx)  | 3399 |
+| 3 (4/CHORUS/EQ) | **Parameter 40** | Chorus Tone (sliderFx)  | 3428 |
+| 3 (4/CHORUS/EQ) | **Parameter 41** | Chorus Mix (sliderFx)  | 3357 |
+| 3 (4/CHORUS/EQ) | **Parameter 49** | EQ On (btnOn)  | 3486 |
+| 3 (4/CHORUS/EQ) | **Parameter 50** | EQ Low (sliderFx)  | 3515 |
+| 3 (4/CHORUS/EQ) | **Parameter 51** | EQ Low Mid (sliderFx)  | 3544 |
+| 3 (4/CHORUS/EQ) | **Parameter 52** | EQ High Mid (sliderFx)  | 3573 |
+| 3 (4/CHORUS/EQ) | **Parameter 53** | EQ high (sliderFx)  | 3602 |
+| 3 (4/CHORUS/EQ) | **Parameter 54** | Delay On (btnOn)  | 3631 |
+| 3 (4/CHORUS/EQ) | **Parameter 62** | Spring Reverb (btnOn)  | 3660 |
+|  |  |  |  |
+| 4 (5/DELAY/REVERB) | **Parameter 54** | Delay On (btnOn)  | 3752 |
+| 4 (5/DELAY/REVERB) | **Parameter 55** | Delay Time (sliderFx)  | 3781 |
+| 4 (5/DELAY/REVERB) | **Parameter 56** | Delay L/R Ratio (sliderFx)  | 3810 |
+| 4 (5/DELAY/REVERB) | **Parameter 57** | Delay Feedback (sliderFx)  | 3839 |
+| 4 (5/DELAY/REVERB) | **Parameter 58** | Delay Reso LP Freq (knobLgTall)  | 3868 |
+| 4 (5/DELAY/REVERB) | **Parameter 59** | Delay Reso Bell Freq (knobLgTall)  | 3897 |
+| 4 (5/DELAY/REVERB) | **Parameter 60** | Delay Reso Bell Gain (knobLgTall)  | 3926 |
+| 4 (5/DELAY/REVERB) | **Parameter 61** | Delay Mix (sliderFx)  | 3955 |
+| 4 (5/DELAY/REVERB) | **Parameter 62** | Spring Reverb (btnOn)  | 3984 |
+| 4 (5/DELAY/REVERB) | **Parameter 63** | Reverb Pre-Dealy (sliderFx)  | 4013 |
+| 4 (5/DELAY/REVERB) | **Parameter 64** | Reverb Time (sliderFx)  | 4042 |
+| 4 (5/DELAY/REVERB) | **Parameter 65** | Reverb Low Cut (sliderFx)  | 4071 |
+| 4 (5/DELAY/REVERB) | **Parameter 66** | Reverb Diffusion (sliderFx)  | 4100 |
+| 4 (5/DELAY/REVERB) | **Parameter 67** | Reverb Width (sliderFx)  | 4129 |
+| 4 (5/DELAY/REVERB) | **Parameter 68** | Reverb Mix (sliderFx)  | 4158 |
+| 4 (5/DELAY/REVERB) | **Parameter 37** | Chorus On (btnOn)  | 4187 |
+| 4 (5/DELAY/REVERB) | **Parameter 49** | EQ On (btnOn)  | 4216 |
 
 
