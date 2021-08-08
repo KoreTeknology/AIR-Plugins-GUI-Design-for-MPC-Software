@@ -4,9 +4,9 @@ This document presents the keys and values associated with the interactive compo
 
 ---
 
-## General structure of the themes
+## General structure
 
-All AIR themes are constructed in the same way, thanks to a list of references (parameters) and a list of components (controls). Each plugin then has a JSON file which links these elements. let's start to see the list of parameters accessible for the plugins that interest us here (Solina, Hype, Drumsynth):
+All plugin´s themes are constructed in the same way, thanks to a list of references (parameters) and a list of components (controls). Each plugin then has a JSON file which links these elements. let's start to see the list of parameters accessible for the plugins that interest us here (Solina, Hype, Drumsynth):
 
 | Plugin | fnKeyIndex (Tab/Page) | Keys | Functions (Type)  | Line of Code |
 | :--- | :---: | :---: | :--- | :---: |
