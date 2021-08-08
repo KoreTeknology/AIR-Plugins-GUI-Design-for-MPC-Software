@@ -33,13 +33,14 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
-| `Solina "Classic Gold"` | INST | 07/2021 | A rich instrument Classic color scheme. | [0.9.2]() |
-| `Solina "Artic Blue"` | INST | 07/2021 | A modern instrument color scheme. | [0.9.1]() |
-| `Solina "Red Line"` | INST | 07/2021 | An integral instrument color scheme. | [-]() |
-| `Solina "Armor Green"` | INST | 07/2021 | A light instrument color scheme. | [-]() |
+| `Solina "Classic Gold"` | INST | 08/2021 | A rich instrument Classic color scheme. | [0.9.2]() |
+| `Solina "Artic Blue"` | INST | 08/2021 | A modern instrument color scheme. | [0.9.1]() |
+| `Solina "Red Line"` | INST | 08/2021 | An integral instrument color scheme. | [-]() |
+| `Solina "Black Mate"` | INST | 08/2021 | An integral instrument color scheme. | [-]() |
+| `Solina "Armor Green"` | INST | 08/2021 | A light instrument color scheme. | [-]() |
 | `Hype "Dark Matter"` | INST | 08/2021 | A futuristic looking "Synth" color scheme. | [0.2.0]()|
-| `Hype "White Cream"` | INST | 08/2021 | A retro looking "Synth" color scheme. | [-]()|
-| `Drumsynth "Classic Edition"` | INST | 08/2021 | A futuristic looking "Drums" color scheme. | [-]()|
+| `Hype "White Cream"` | INST | 09/2021 | A retro looking "Synth" color scheme. | [-]()|
+| `Drumsynth "Classic Edition"` | INST | 09/2021 | A futuristic looking "Drums" color scheme. | [-]()|
 
 ---
 
