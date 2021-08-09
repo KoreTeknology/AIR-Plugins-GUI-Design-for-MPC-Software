@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b><a href="">Homepage</a> | <a href="PROJECT.md">Project Description</a> | <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
+  <b><a href="PROJECT.md">Project Description</a> | <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 <p align="center">
   <b>Tutorials: <a href="Documentation/TUTORIAL-SOLINA.md">Beginner</a> | <a href="Documentation/TUTORIAL-HYPE.md">Advanced</a> | <a href="Documentation/TUTORIAL-DRUMSYNTH.md">Pro</a> | <a href="Documentation/API-AIR-PLUGINS.md">API 1.1 (Gfx)</a></b>
