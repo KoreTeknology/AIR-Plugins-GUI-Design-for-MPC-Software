@@ -4,6 +4,18 @@ This project is all about distributing new theme packages that contains a set of
 
 ---
 
+## History
+
+I started to develop user interfaces for audio products in the years 2001, for physical machines as well as for virtual machines. I have been a programmer and musician since very young and all my energy is professionally oriented to satisfy users in the handling of their work or entertainment tools. I participate in several software research and development groups of which this page is a recent production section. I am a fan of the products distributed by the company InMusicBrands which distributes among other things the Akai brand all over the world. In 2020, I acquired the MPC software 2 software, an overpowering DAW that uses the logic of the sampler sequencer of the same name. Since that time, I have modified most of the theme files supplied with the software, in order to personalize my instruments and effects.
+
+Since the release of version 2.10, new instruments have been added to the existing list and the instruments really deserve special attention, mainly for the very good quality audio engines, the functions offered in quantity and ... ergonomics. which was not really adapted to users and their requirements. I must say that after analyzing the code of the themes and the images provided, I understand that the design of the plugins was not a priority for the development group, it is basic, poorly organized and the visuals are poor, but it is simply my professional opinion in this area. Overall, I appreciate the design that Akai provides in its consumer products.
+
+So I decided to distribute and update my themes for the new instruments as well as for some elements of the main software interface. They are therefore offered free of charge to all, in exchange for accepting the license. Be sure to read it before clicking the download button, as it commits you to preserving the content and making it free for everyone.
+
+Enjoy!
+
+---
+
 ## TUTORIAL: How to install the new themes?
 
 ```diff 
