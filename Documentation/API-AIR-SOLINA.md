@@ -1,4 +1,74 @@
-# Solina Parameters <> Functions
+# Solina Plugin API General Documentation
+
+## Pages/Tabs:
+
+```yaml
+"page 1": "ENSEMBLE"
+"page 2": "SOUND"
+"page 3": "FLAVOR"
+"page 4": "CHORUS/EQ"
+"page 5": "DELAY/REVERB"
+```
+
+## GUI Components:
+
+```yaml
+- btnOn
+- btnEnsemble
+- btnDual
+- valueSlider
+- comboBox
+- flavorType
+- knobPan
+- sliderMix
+- sliderSound
+- sliderFx
+- sliderSoundBi
+- knobLg
+- knobLgTall
+- knobOct
+```
+---
+
+## Images:
+
+The plugin background is made up of a single image for each page. The image may contain a simple instrument panel but also button shadows, and other details. Each page or tab contains its own background and additional components.
+
+| BACKGROUNDS | Page 1  | Page 2  | Page 3  | Page 4  | Page 5  | Dimensions (px) |
+| --- | --- | --- | --- | --- | --- | :---: |
+| BG Pages: | fbank_01.png | fbank_02.png | fbank_03.png | fbank_04.png | fbank_05.png | **1280x630** |
+
+### The Switch buttons:
+
+| GUI Elements: Switches (Buttons with 2 states) | Images OFF  | Images ON  | Dimensions (px) |
+| --- | --- | --- | :---: |
+| Instrument Switch: | btn_off.png  |  btn_on.png | **70x70** |
+| Ensemble Switch: | btn_off.png  |  btn_ensemble.png | **70x70** |
+| Dual Switch: | btn_off.png  |  btn_dual.png | **70x70** |
+
+### The Sliders and Knobs:
+
+| GUI Elements: Sliders & Knobs (Vertical steps) | Images  | Dimensions (px) |
+| --- | --- | :---: |
+| Flavor Slider: | flavor.png  | **216x7360** |
+| Knob: | knob.png  | **127x16129** |
+| Octave knob: | knob_octave.png  | **75x225** |
+| Pan knob: | knob_pan.png  | **92x11684** |
+| Slider Long: | slider_long.png  | **80x31115** |
+| Slider Short: | slider_short.png  | **80x31115** |
+
+### The structured data/setup files:
+
+| GUI structure: JSON files |  Data | Weight (Kb) |
+| --- | --- | :---: |
+| Main: | TUI.json  | **192** |
+| Qlinks: | Q-Links.json | **4.28** |
+| Extra: | Q-Links - 8by1.json | **4.28** |
+
+---
+
+
+## Parameters <> Functions
 
 | Keys | Functions (Type)  | Values |
 | :---: | :----------------- | :---: |
@@ -73,3 +143,86 @@
 | **Parameter 68** | Reverb Mix (sliderFx)  | 0...100 |
 | **Parameter 69** | Sample Poly (valueSlider)  | 25...50 |
 | **Parameter 70** | Master Level (knobLg)  | 0...100 |
+
+## Exemple: 1 Tab (various Sub-components) - TAB 3 (Flavor)
+```yaml
+Line 3021 - Component >>> "fnKeyIndex": 2
+"tabName": "FLAVOR"
+"colour": "ff1e1d1e"
+"image": ""
+
+
+Line 3045 - Sub-component >>> "type": "Image"
+"name": "Image"
+"value": "Invalid"
+"image": "fbank_03_bg.png"
+"bounds": "0 0 1280 630"
+
+Line 3077 - Sub-component >>> "type": "btnOn"
+"name": "Flavor On"
+"value": "Parameter 42"
+"bounds": "1074 68 121 74"
+
+Line 3106 - Sub-component >>> "type": "flavorType"
+"name": "Flavor Timbre"
+"value": "Parameter 43"
+"bounds": "122 241 216 230"
+
+Line 3134 - Sub-component >>> "type": "sliderSound"
+"name": "Flavor Depth"
+"value": "Parameter 44"
+"bounds": "357 298 121 295"
+
+Line 3163 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Vinyl Dist"
+"value": "Parameter 45"
+"bounds": "509 370 155 217"
+
+Line 3192 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Vinyl Noise"
+"value": "Parameter 46"
+"bounds": "669 370 155 217"
+
+Line 3221 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Flutter"
+"value": "Parameter 47"
+"bounds": "829 270 155 217"
+
+Line 3250 - Sub-component >>> "type": "knobLgTall"
+"name": "Flavor Monofy"
+"value": "Parameter 48"
+"bounds": "989 270 155 217"
+```
+
+## Exemple: 1 Type (slider built on 3 Sub-components) - Vertical Slider
+```yaml
+Line 928 - "key": "sliderSound"
+size= 80x245px
+
+Line 971 - Focus
+"name": "Focus"
+"type": "Focus"
+"backgroundColour": "10ffffff"
+"outlineColour": "ffe81f40"
+"backgroundInset": 4.0
+"outlineThickness": 1.0
+
+Line 998 - Knob
+"name": "Knob"
+"type": "Knob"
+"knobType": "FilmStrip"
+"filmStrip": "slider_long.png"
+"numFrames": 127
+"bounds": "20 0 80 245"
+
+Line 1026 - Data Bloc 
+"name": "Label"
+"type": "Label"
+"name": "Titillium Web"
+"style": "SemiBold"
+"height": 24.0
+"colour": "ffffffff"
+"justification": "horizontallyCentred verticallyCentred"
+"bounds": "0 255 121 28"
+```
+
