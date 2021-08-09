@@ -7,9 +7,14 @@ This project contains a set of graphics files and XML files which allows a redes
 You will find in this project several files and documents. From there you can download the files for your plugin OR/AND learn from the tutorials how to do your won theme.
 
 ## MAIN TASKLIST
-- [x] Step 1: Setup home page and documentation structure :bulb:
-- [x] Step 2: Uploading first code parts in documentation
-- [ ] Step 3: Making available the module files and builds
+- [x] Step 1: Setup home page and documentation structure
+- [x] Step 2: Setup API Documentation Structure
+- [x] Step 3: Setup the "tutorials section"
+- [x] Step 4: Setup the "repositories section"
+- [x] Step 5: Setup the "license section"
+- [ ] Step 6: Add Solina package and documentation
+- [ ] Step 7: Add Hype package and documentation
+- [ ] Step 8: Add Drumsynth package and documentation
 
 ---
 
