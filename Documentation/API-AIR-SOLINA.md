@@ -1,5 +1,15 @@
 # Solina Plugin API General Documentation
 
+## The structured data/setup files:
+
+| GUI structure: JSON files |  Data | Weight (Kb) |
+| --- | --- | :---: |
+| Main: | TUI.json  | **192** |
+| Qlinks: | Q-Links.json | **4.28** |
+| Extra: | Q-Links - 8by1.json | **4.28** |
+
+---
+
 ## Pages/Tabs:
 
 ```yaml
@@ -57,16 +67,7 @@ The plugin background is made up of a single image for each page. The image may 
 | Slider Long: | slider_long.png  | **80x31115** |
 | Slider Short: | slider_short.png  | **80x31115** |
 
-### The structured data/setup files:
-
-| GUI structure: JSON files |  Data | Weight (Kb) |
-| --- | --- | :---: |
-| Main: | TUI.json  | **192** |
-| Qlinks: | Q-Links.json | **4.28** |
-| Extra: | Q-Links - 8by1.json | **4.28** |
-
 ---
-
 
 ## Parameters <> Functions
 
@@ -144,6 +145,8 @@ The plugin background is made up of a single image for each page. The image may 
 | **Parameter 69** | Sample Poly (valueSlider)  | 25...50 |
 | **Parameter 70** | Master Level (knobLg)  | 0...100 |
 
+---
+
 ## Exemple: 1 Tab (various Sub-components) - TAB 3 (Flavor)
 ```yaml
 Line 3021 - Component >>> "fnKeyIndex": 2
@@ -193,6 +196,8 @@ Line 3250 - Sub-component >>> "type": "knobLgTall"
 "value": "Parameter 48"
 "bounds": "989 270 155 217"
 ```
+
+---
 
 ## Exemple: 1 Type (slider built on 3 Sub-components) - Vertical Slider
 ```yaml
