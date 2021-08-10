@@ -1,3 +1,6 @@
-# Tutorials
+# Tutorials - Custom GUI for Air Plugins
 
-<b>Tutorials: <a href="Documentation/TUTORIAL-SOLINA.md">Beginner</a> | <a href="Documentation/TUTORIAL-HYPE.md">Advanced</a></b>
+| Tutorial´s Levels | Themes | Versions | Descriptions | Links |
+| :-------------- | :---: | :---: | :--- | --- |
+| **Beginner** | `Solina` | 0.9 | A simple course about image manipulation and formating | [HERE](Documentation/TUTORIAL-SOLINA.md) |
+| **Advanced** | `Hype` | 0.7 | A course about image manipulation and Programming | [HERE](Documentation/TUTORIAL-HYPE.md) |
