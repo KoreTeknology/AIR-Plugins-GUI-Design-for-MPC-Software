@@ -48,16 +48,16 @@ The new themes packages will be distributed and available as **FREE Download** o
 | `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [**Download**](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/9295be3cb0f94a09fea3b45d4707953afb137931/Releases/MPC%20Mixer/Custom_Mixer_Fader.zip) |
 | `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [in progress]() |
 
-![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+---
 
-# Tutorials - Custom GUI for Air Plugins
+## TUTORIALS (Custom Air Plugins GUI)
 
 | Tutorial´s Levels | Themes | Versions | Descriptions | Links |
 | :-------------- | :---: | :---: | :--- | --- |
 | **Beginner** | `Solina` | 0.9 | A simple course about image manipulation and formating | [HERE](Documentation/TUTORIAL-SOLINA.md) |
 | **Advanced** | `Hype` | 0.7 | A course about image manipulation and Programming | [HERE](Documentation/TUTORIAL-HYPE.md) |
 
----
+![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
 ## Acknowledgments
 
