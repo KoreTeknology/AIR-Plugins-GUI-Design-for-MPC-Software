@@ -85,11 +85,11 @@ Each one contains some sort of data to publish a user interface for the plugin.
 
 - [x] The "info" section presents the type of content, it can be a main file or a secondary file.
 
-- [x] The "tabs" section presents the general images structure, by placing accuratly the graphics at the good place and at the good size. This section is especialy interesting because of the potential of moving controls and re-structure the whole plugin*
+- [x] The "tabs" section presents the general images structure, by placing accuratly the graphics at the good place and at the good size. This section is especially interesting because of the potential of moving controls and re-structure the whole plugin*
 
 *by this technique, you can make a single page plugin and place all the controls over it ;)
 ```diff 
-- Dont create a plugin that will not fit the Akai MPC Software maximum dimensions in pixels > 1280x629px
+- Don't create a plugin that will not fit the Akai MPC Software maximum dimensions in pixels > 1280x629px
 ```
 ---
 
