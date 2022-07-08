@@ -39,4 +39,10 @@ Model Name | Parameters | .adsm file | .adss file | Default | Custom |
 :--------------------------------------- | :--- | :---: | :---: |:---: |:---: |
 Eighty | *Tune, Hold, Decay, Sweep, Harm, Click, Noise, Noise-color* | Eighty.adsm | Eighty.adss |:heavy_check_mark: | :x: |
 Ninety | *Tune, Hold, Decay, Sweep, Punch, Harm, Click, Noise* | Ninety.adsm | Ninety.adss |:heavy_check_mark: | :x: |
-Driven 8 | *Tune, Hold, Decay, Sweep-Decay, Sweep-Depth, Punch, Harm, Drive* | Ninety.adsm | Ninety.adss |:heavy_check_mark: | :x: |
+Driven 8 | *Tune, Hold, Decay, Sweep-Decay, Sweep-Depth, Punch, Harm, Drive* | Driven8.adsm | Driven8.adss |:heavy_check_mark: | :x: |
+Hybrid | *Tune, Hold, Decay, Sweep, Punch, Att-Noise, Att-Time, Att-Dirt* | Hybrid.adsm | Hybrid.adss |:heavy_check_mark: | :x: |
+Transe | *Tune, Hold, Decay, Hit, Sweep, Sweep-Dec, Noise, Noise-Col* | Transe.adsm | Transe.adss |:heavy_check_mark: | :x: |
+Natural A | *Tune, Decay, Attack, Body, Beat, Beat-Color, Noise, Noise-Reso* | NaturalA.adsm | NaturalA.adss |:heavy_check_mark: | :x: |
+Natural B | *Tune, Decay, Body, Beat, Beat-Mid, Noise, Noise-Dec, Noise-Col* | NaturalB.adsm | NaturalB.adss |:heavy_check_mark: | :x: |
+Hard 1 | *Tune, Hold, Decay, Harm, Dist, Beat, High, Noise* | Hard1.adsm | Hard1.adss |:heavy_check_mark: | :x: |
+Hard 2 | *Tune, Hold, Decay, Sweep, Click, Hi-Hat, HH-Dec, HH-Tune* | Hard2.adsm | Hard2.adss |:heavy_check_mark: | :x: |
