@@ -30,7 +30,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## :radio_button: CUSTOM PLUGINS THEMES RELEASES  ( AIR Plugins Themes Skin Packages) 
+## :radio_button: CUSTOM AIR PLUGINS THEMES RELEASES  ( Skin Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
@@ -41,7 +41,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## :radio_button: SPECIAL MAIN UI THEMES RELEASES  ( MPC Software 2.11x Packages) 
+## :radio_button: SPECIAL MAIN UI THEMES RELEASES  ( MPC Soft. Skin Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
