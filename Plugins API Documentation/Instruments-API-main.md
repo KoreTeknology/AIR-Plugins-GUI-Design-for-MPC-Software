@@ -20,7 +20,7 @@ All plugin´s themes are constructed in the same way, thanks to a list of refere
     - **[Drumsynth Tom Plugin References]()**
     - **[Drumsynth Crash Plugin References]()**
     - **[Drumsynth Ride Plugin References]()**
-    - **[Drumsynth Multi Plugin References]()**
+    - **[Drumsynth Multi Plugin References]() - [Presets](Instruments-API-Drumsynth%20Multi%20Presets.md) - [Gui](Instruments-API-Drumsynth%20Multi%20GUI.md)**
 - **[Solina Plugin References](API-AIR-SOLINA.md)**
 - **[Hype Plugin References]()**
 - **[Mellotron Plugin References]()**
