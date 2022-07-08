@@ -22,20 +22,27 @@ The Drum Synth includes several tools to create your own **drum kits**. We have 
  |  |  | |
 :drum: *AIR Drumsynth (Kick)* | **All** | 145 | :x: |
 &nbsp; | Default | 1 | :x: |
-&nbsp; | Eighty | 20 | :x: |
-&nbsp; | Ninety | 19 | :x: |
-&nbsp; | Driven 8 | 7 | :x: |
-&nbsp; | Hybrid | 4 | :x: |
-&nbsp; | Transe | 2 | :x: |
-&nbsp; | Natural A | :x: | 4 |
-&nbsp; | Natural B | :x: | 2 |
-&nbsp; | Hard 1 | 2 | :x: |
-&nbsp; | Hard 2 | :x: | 4 |
-&nbsp; | Clipped | :x: | 2 |
-&nbsp; | Bass | 2 | :x: |
+&nbsp; | Eighty | - | :x: |
+&nbsp; | Ninety | - | :x: |
+&nbsp; | Driven 8 | - | :x: |
+&nbsp; | Hybrid | - | :x: |
+&nbsp; | Transe | - | :x: |
+&nbsp; | Natural A | - | :x: |
+&nbsp; | Natural B | - | :x: |
+&nbsp; | Hard 1 | - | :x: |
+&nbsp; | Hard 2 | - | :x: |
+&nbsp; | Clipped | - | :x: |
+&nbsp; | Bass | - | :x: |
  |  |  | |
 :drum: **AIR Drumsynth (Snare)** | | 77 | :x: |
 &nbsp; | Default | 1 | :x: |
+&nbsp; | Eighty | - | :x: |
+&nbsp; | Ninety | - | :x: |
+&nbsp; | Natural | - | :x: |
+&nbsp; | Ring | - | :x: |
+&nbsp; | Comp A | - | :x: |
+&nbsp; | Comp B | - | :x: |
+&nbsp; | Bandpass | - | :x: |
  |  |  | |
 :drum: **AIR Drumsynth (Hi-Hat)** | | 139 | :x: |
 &nbsp; | Default | 1 | :x: |
