@@ -73,7 +73,7 @@ Enjoy!
 
 * This work is dedicated to all Akai MPC users ;)
 * **I do  this work during my free time, so please, be patient for the release of new themes** :)
-* These files are intended to work with the latest MPC Software Release (2.10 and above)
+* These files are intended to work with the latest MPC Software Release (2.11 and above)
 * These packages are supposed to work well in both  the **Standalone** & the **Software** versions
 
 ---
