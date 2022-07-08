@@ -9,6 +9,7 @@
 </p>
 <h2 align="center">!!! Updated for Release 2.11.2 and above !!!</h2>
 
+![Header](header_project_customGUI.jpg)
 
 <p align="center">
   <b style="height:50px;"><a href="Plugins%20API%20Documentation/Instruments-API-main.md">Instruments Plugins API</a> | <a href="">Fx Plugins API</a></b>
