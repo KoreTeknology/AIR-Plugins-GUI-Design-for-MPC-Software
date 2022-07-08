@@ -26,7 +26,7 @@ This project is all about distributing new theme packages that contains a set of
 By Downloading these files packages, you are accepting the terms of the CC BY NC SA 4.0 License</a>
 ```
 
-![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
+---
 
 ## CUSTOM PLUGINS THEMES RELEASES  ( AIR Plugins Themes Skin Packages) 
 
