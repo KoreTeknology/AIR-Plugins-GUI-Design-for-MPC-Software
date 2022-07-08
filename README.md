@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b style="height:50px;"><a href="Documentation/API-AIR-PLUGINS.md">Plugins API (2.11)</a></b>
+  <b style="height:50px;"><a href="Plugins%20API%20Documentation/Instruments-API-main.md">Instruments Plugins API (2.11)</a></b>
 </p>
 
 [comment]: <> (This is a comment, it will not be included)
