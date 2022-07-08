@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b><a href="PROJECT.md">Project Description</a>  |  <a href="LICENSE-CC-BY-NC-SA">License Details</a>  |  <a href="Documentation/TUTORIALS.md">Tutorials</a>  |  <a href="Documentation/API-AIR-PLUGINS.md">API 1.1 (Gfx)</a></b>
+  <b><a href="PROJECT.md">Project Description</a>  |  <a href="Documentation/API-AIR-PLUGINS.md">Plugins API (2.11)</a>  |  <a href="LICENSE-CC-BY-NC-SA">License Details</a></b>
 </p>
 <H3 style="height:50px;">&nbsp;</H3>
 
@@ -26,22 +26,18 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
-## OVERVIEW & RELEASES  ( AIR Plugins Themes Packages) 
+## CUSTOM PLUGINS THEMES RELEASES  ( AIR Plugins Themes Skin Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
 | `Solina "Classic Gold"` | INST | 08/2021 | A rich instrument Classic color scheme. | [0.9.2]() |
-| `Solina "Artic Blue"` | INST | 08/2021 | A modern instrument color scheme. | [0.9.1]() |
-| `Solina "Red Line"` | INST | 08/2021 | An integral instrument color scheme. | [-]() |
-| `Solina "Black Mate"` | INST | 08/2021 | An integral instrument color scheme. | [-]() |
-| `Solina "Armor Green"` | INST | 08/2021 | A light instrument color scheme. | [-]() |
 | `Hype "Dark Matter"` | INST | 08/2021 | A futuristic looking "Synth" color scheme. | [0.2.0]()|
 | `Hype "White Cream"` | INST | 09/2021 | A retro looking "Synth" color scheme. | [-]()|
 | `Drumsynth "Classic Edition"` | INST | 09/2021 | A futuristic looking "Drums" color scheme. | [-]()|
 
 ---
 
-## SPECIAL RELEASES  ( MPC Software Themes Packages) 
+## SPECIAL MAIN UI THEMES RELEASES  ( MPC Software 2.11x Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
@@ -54,9 +50,9 @@ The new themes packages will be distributed and available as **FREE Download** o
 
 | Tutorial´s Levels | Themes | Versions | Descriptions | Links |
 | :-------------- | :---: | :---: | :--- | --- |
-| **Beginner** | `Solina` | 0.9 | A simple course about image manipulation and formating | [HERE](Documentation/TUTORIAL-SOLINA.md) |
-| **Advanced** | `Hype` | 0.7 | A course about image manipulation and Programming | [HERE](Documentation/TUTORIAL-HYPE.md) |
-| **Pro** | `Drumsynth` | 0.3 | A complete course about image manipulation and Programming | [-]() |
+| **Beginner** | `Theme Images` | 0.9 | A simple course about image manipulation and formating | [HERE](Documentation/TUTORIAL-SOLINA.md) |
+| **Advanced** | `Plugin Params` | 0.7 | A course about image manipulation and Programming | [HERE](Documentation/TUTORIAL-HYPE.md) |
+| **Pro** | `Drum Models` | 0.3 | A complete course about image manipulation and Programming | [-]() |
 
 ![sepratator](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/Documentation/images/separator.png)
 
