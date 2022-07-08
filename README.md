@@ -7,13 +7,9 @@
   by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br/>
 </p>
-<h2 align="center">!!! Updated for Release 2.11.2 and above !!!</h2>
+<h2 align="center">!!! Updated for API Release 2.11.2 and above !!!</h2>
 
 ![Header](header_project_customGUI.jpg)
-
-<p align="center">
-  <b style="height:50px;"><a href="Plugins%20API%20Documentation/Instruments-API-main.md">Instruments Plugins API</a> | <a href="">Fx Plugins API</a></b>
-</p>
 
 [comment]: <> (This is a comment, it will not be included)
   
@@ -55,6 +51,11 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 - **Amp Sim Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 - **Channel Strip Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+
+### General UI
+
+- **Mixer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Sequencer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 
 ---
 
