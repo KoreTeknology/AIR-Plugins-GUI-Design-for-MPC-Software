@@ -86,8 +86,6 @@ Enjoy!
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
 
-Read about the `Full Project`: **[HERE](PROJECT.md)**, the `Documentation`: **[HERE](Documentation/DOCUMENTATION.md)**, and the `License`: **[HERE](#license)**
-
 ---
 
 ## License
