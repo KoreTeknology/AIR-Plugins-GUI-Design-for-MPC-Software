@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b><a href="Documentation/API-AIR-PLUGINS.md">Plugins API (2.11)</a>  |  </b>
+  <b><a href="Documentation/API-AIR-PLUGINS.md">Plugins API (2.11)</a></b>
 </p>
 <H3 style="height:50px;">&nbsp;</H3>
 
