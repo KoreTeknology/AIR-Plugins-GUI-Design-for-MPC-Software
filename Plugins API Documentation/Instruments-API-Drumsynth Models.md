@@ -1,3 +1,7 @@
+[<< Back to main page](/..) ```Audio Plugins Skins and Presets - uriel Deveaud @2022 ```
+
+---
+
 # Drumsynth Models API (2.11x)
 
 ## Basic structure of the Presets
