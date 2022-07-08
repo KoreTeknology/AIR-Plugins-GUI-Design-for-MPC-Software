@@ -1,4 +1,4 @@
-<h1 align="center">AIR Plugins GUI Custom Design & Presets</h1>
+<h1 align="center">AIR Plugins Custom GUI Design & Presets Packs</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AIR-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC-yellow.svg" />
 </p>
@@ -27,6 +27,27 @@ This project is all about distributing new theme packages that contains a set of
 ```diff 
 By Downloading these files packages, you are accepting the terms of the CC BY NC SA 4.0 License
 ```
+---
+
+## API Directory (Work in Progress)
+
+- **Drumsynth Plugins References:** [Models](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
+    - **Drumsynth Multi Plugin References:** [Presets](Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skinning](Instruments-API-Drumsynth%20Multi%20GUI.md) | [<ins>Downloads</ins>]()
+    - **[Drumsynth Kick Plugin References]()**
+    - **[Drumsynth Snare Plugin References]()**
+    - **[Drumsynth Hihat Plugin References]()**
+    - **[Drumsynth Clap Plugin References]()**
+    - **[Drumsynth Percussion Plugin References]()**
+    - **[Drumsynth Tom Plugin References]()**
+    - **[Drumsynth Crash Plugin References]()**
+    - **[Drumsynth Ride Plugin References]()**
+- **[Solina Plugin References]() - Presets - [Gui](Instruments-API-Solina%20GUI.md)**
+- **[Hype Plugin References]() - Presets - [Gui](Instruments-API-Hype%20GUI.md)**
+- **[Mellotron Plugin References]()**
+- **[Odyssey Plugin References]()**
+- **[Electric Plugin References]()**
+- **[Tubesynth Plugin References]()**
+- **[Bassline Plugin References]()**
 
 ---
 
