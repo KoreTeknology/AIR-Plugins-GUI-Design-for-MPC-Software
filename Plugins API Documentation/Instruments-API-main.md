@@ -21,8 +21,8 @@ All plugin´s themes are constructed in the same way, thanks to a list of refere
     - **[Drumsynth Crash Plugin References]()**
     - **[Drumsynth Ride Plugin References]()**
     - **[Drumsynth Multi Plugin References]() - [Presets](Instruments-API-Drumsynth%20Multi%20Presets.md) - [Gui](Instruments-API-Drumsynth%20Multi%20GUI.md)**
-- **[Solina Plugin References](API-AIR-SOLINA.md)**
-- **[Hype Plugin References]()**
+- **[Solina Plugin References]() - Presets - [Gui](Instruments-API-Solina%20GUI.md)**
+- **[Hype Plugin References]() - Presets - [Gui](Instruments-API-Hype%20GUI.md)**
 - **[Mellotron Plugin References]()**
 - **[Odyssey Plugin References]()**
 - **[Electric Plugin References]()**

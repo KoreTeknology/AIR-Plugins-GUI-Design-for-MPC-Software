@@ -3,13 +3,15 @@
   <img src="https://img.shields.io/badge/License-CC BY NC SA 4.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/Code-XML-blue.svg" /> <img src="https://img.shields.io/badge/Images-PNG-purple.svg" /> <img src="https://img.shields.io/badge/AIR-Plugins-red.svg" /> <img src="https://img.shields.io/badge/Akai-MPC-yellow.svg" />
 </p>
 <p align="center">
-  <b>for MPC Software 2.11x and above (Standalone,PC/MAC),</b><br/>
+  <b>for MPC Software (Standalone units, PC/MAC)</b><br/>
   by <u>Uriel Deveaud @2021-Kore Teknology</u> [Quadraphonics]<br/>
-  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br/>
 </p>
+<h2 align="center">!!! Updated for Release 2.11.2 and above !!!</h2>
+
 
 <p align="center">
-  <b style="height:50px;"><a href="Plugins%20API%20Documentation/Instruments-API-main.md">Instruments Plugins API (2.11)</a></b>
+  <b style="height:50px;"><a href="Plugins%20API%20Documentation/Instruments-API-main.md">Instruments Plugins API</a> | <a href="">Fx Plugins API</a></b>
 </p>
 
 [comment]: <> (This is a comment, it will not be included)
@@ -27,7 +29,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## CUSTOM PLUGINS THEMES RELEASES  ( AIR Plugins Themes Skin Packages) 
+## :radio_button: CUSTOM PLUGINS THEMES RELEASES  ( AIR Plugins Themes Skin Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
@@ -38,7 +40,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## SPECIAL MAIN UI THEMES RELEASES  ( MPC Software 2.11x Packages) 
+## :radio_button: SPECIAL MAIN UI THEMES RELEASES  ( MPC Software 2.11x Packages) 
 
 | Themes | Type | Release Date | Description | Get it! |
 | :--- | :---: | :---: | :--- | --- |
@@ -47,17 +49,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## TUTORIALS (Custom Air Plugins GUI)
-
-| Tutorial´s Levels | Themes | Versions | Descriptions | Links |
-| :-------------- | :---: | :---: | :--- | --- |
-| **Beginner** | `Theme Images` | 0.9 | A simple course about image manipulation and formating | [HERE](Documentation/TUTORIAL-SOLINA.md) |
-| **Advanced** | `Plugin Params` | 0.7 | A course about image manipulation and Programming | [HERE](Documentation/TUTORIAL-HYPE.md) |
-| **Pro** | `Drum Models` | 0.3 | A complete course about image manipulation and Programming | [-]() |
-
----
-
-## History
+## :radio_button: History
 
 I started to develop user interfaces for audio products in the years 2001, for physical machines as well as for virtual machines. I have been a programmer and musician since very young and all my energy is professionally oriented to satisfy users in the handling of their work or entertainment tools. I participate in several software research and development groups of which this page is a recent production section. I am a fan of the products distributed by the company InMusicBrands which distributes among other things the Akai brand all over the world. In 2020, I acquired the MPC software 2 software, an overpowering DAW that uses the logic of the sampler sequencer of the same name. Since that time, I have modified most of the theme files supplied with the software, in order to personalize my instruments and effects.
 
@@ -69,7 +61,7 @@ Enjoy!
 
 ---
 
-## Acknowledgments
+## :radio_button: Acknowledgments
 
 * This work is dedicated to all Akai MPC users ;)
 * **I do  this work during my free time, so please, be patient for the release of new themes** :)
@@ -78,7 +70,7 @@ Enjoy!
 
 ---
 
-## Author
+## :radio_button: Author
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
 
@@ -87,7 +79,7 @@ Collaboration projects are always welcome!</p>
 
 ---
 
-## License
+## :radio_button: License
 
 This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] uriel Deveaud [Quadraphonics], 2021
 
