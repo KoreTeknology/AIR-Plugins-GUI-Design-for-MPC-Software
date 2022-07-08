@@ -19,7 +19,7 @@
   
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
-The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
+The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i can invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
 The new themes packages will be distributed and available as **FREE Download** on our [Facebook Fans Page](https://www.facebook.com/groups/2455369201273499), stay tuned for more to come... 
 
 This project is all about distributing new theme packages that contains a set of graphics files and XML files which allows a **redesign of the plugins** supplied with the MPC software of the famous **Akai** brand. Each plugins is built from a base, the background and elements such as faders, knobs, and other controllers. The XML file contains all the information about the placement of these elements on the surface of the user interface. You will find in this project several files and documents. From there you can **download** the files for your plugin OR/AND **learn** from the tutorials how to do your own theme.
@@ -31,43 +31,30 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ## API Directory (Work in Progress)
 
-- **Drumsynth Plugins References:** [Models](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
-    - **Drumsynth Multi Plugin References:** [Presets](Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skinning](Instruments-API-Drumsynth%20Multi%20GUI.md) | [<ins>Downloads</ins>]()
-    - **[Drumsynth Kick Plugin References]()**
-    - **[Drumsynth Snare Plugin References]()**
-    - **[Drumsynth Hihat Plugin References]()**
-    - **[Drumsynth Clap Plugin References]()**
-    - **[Drumsynth Percussion Plugin References]()**
-    - **[Drumsynth Tom Plugin References]()**
-    - **[Drumsynth Crash Plugin References]()**
-    - **[Drumsynth Ride Plugin References]()**
-- **[Solina Plugin References]() - Presets - [Gui](Instruments-API-Solina%20GUI.md)**
-- **[Hype Plugin References]() - Presets - [Gui](Instruments-API-Hype%20GUI.md)**
-- **[Mellotron Plugin References]()**
-- **[Odyssey Plugin References]()**
-- **[Electric Plugin References]()**
-- **[Tubesynth Plugin References]()**
-- **[Bassline Plugin References]()**
+### Instruments Plugins
 
----
+- **Drumsynth Plugins References:** [Models Types](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
+    - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md) | [<ins>Downloads</ins>]()
+    - **Drumsynth Kick Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Snare Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Hihat Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Clap Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Percussion Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Tom Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Crash Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Ride Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Solina Plugin References:** [Presets List]() | [Skins Structure](Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>]()
+- **Hype Plugin References:**[Presets List]() | [Skins Structure](Instruments-API-Hype%20GUI.md) | [<ins>Downloads</ins>]()
+- **Mellotron Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Odyssey Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Electric Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Tubesynth Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Bassline Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 
-## :radio_button: CUSTOM AIR PLUGINS THEMES RELEASES  ( Skin Packages) 
+### Fx Plugins
 
-| Themes | Type | Release Date | Description | Get it! |
-| :--- | :---: | :---: | :--- | --- |
-| `Solina "Classic Gold"` | INST | 08/2021 | A rich instrument Classic color scheme. | [0.9.2]() |
-| `Hype "Dark Matter"` | INST | 08/2021 | A futuristic looking "Synth" color scheme. | [0.2.0]()|
-| `Hype "White Cream"` | INST | 09/2021 | A retro looking "Synth" color scheme. | [-]()|
-| `Drumsynth "Classic Edition"` | INST | 09/2021 | A futuristic looking "Drums" color scheme. | [-]()|
-
----
-
-## :radio_button: SPECIAL MAIN UI THEMES RELEASES  ( MPC Soft. Skin Packages) 
-
-| Themes | Type | Release Date | Description | Get it! |
-| :--- | :---: | :---: | :--- | --- |
-| `Main Mixer V2` | MOD | 07/2021 | A new mixer Pro color scheme. | [**Download**](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/9295be3cb0f94a09fea3b45d4707953afb137931/Releases/MPC%20Mixer/Custom_Mixer_Fader.zip) |
-| `PGM Editor V2` | MOD | 08/2021 | A new Program Editor Pro color scheme. | [in progress]() |
+- **Amp Sim Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Channel Strip Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 
 ---
 
