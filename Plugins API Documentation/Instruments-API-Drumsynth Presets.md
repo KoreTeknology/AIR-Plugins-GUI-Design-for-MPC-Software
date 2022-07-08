@@ -4,25 +4,53 @@
 
 The Drum Synth includes several tools to create your own **drum kits**. We have the the Multi synth, a multi-sound generator to create up to 8 sounds of any categories and get them available on the 8 first pads. It has several dedicated Fx, as well as an overall Send Fx. Each instrument has a set of specific parameters, depending on the model type*. It also offers velicity and velocity % targets selection. We also have a dedicated generator for each category. The GUI may differ from versions and releases and a set of **presets** are available for each instrument plugin. In this documentation, we will see how the presests are made.
 
-## Description of the Drums generators plugins
+*Source: https://www.akaipro.com/mpc-plugin-instruments-insert-effects*
 
-Source: https://www.akaipro.com/mpc-plugin-instruments-insert-effects | Official Presets | Custom Presets |
-:--------------------------------------- | :---: | :------: |
-:drum: **AIR Drumsynth (Multi)** |  | [-]() |
-DrumSynth Multi offers 8 instruments per kit and has several dedicated Fx, as well as an overall Send Fx. Each instrument has a set of specific parameters, depending on the model type*. It also offers velicity and velocity % targets selection.  | 54 | 5 |
-:drum: **AIR Drumsynth (Kick)** | |  |
-Drum Synth Kick offers. | 145 | :x: |
-:drum: **AIR Drumsynth (Snare)** | |  |
-Drum Synth Snare offers... | 77 | :x: |
-:drum: **AIR Drumsynth (Hi-Hat)** | |  |
-Drum Synth Hihat offers... | 139 | :x: |
-:drum: **AIR Drumsynth (Ride)** | |  |
-Drum Synth Ride offers... | 26 | :x: |
-:drum: **AIR Drumsynth (Clap)** | |  |
-Drum Synth Clap offers... | 52 | :x: |
-:drum: **AIR Drumsynth (Tom)** | |  |
-Drum Synth Tom offers... | 49 | :x: |
-:drum: **AIR Drumsynth (Percussion)** | |  |
-Drum Synth Perc offers... | 122 | :x: |
-:drum: **AIR Drumsynth (Crash)** | |  |
-Drum Synth Crash offers... | 63 | :x: |
+## Description of the Drums generators plugins Presets per categories
+
+**Drums Generator Plugins** | Presets Categories |Official Presets | Custom Presets |
+:--------------------------------------- | :---: | :---: | :------: |
+:drum: *AIR Drumsynth (Multi)* | **All** | 55 | 6 |
+&nbsp; | Default | 1 | :x: |
+&nbsp; | Urban | 20 | :x: |
+&nbsp; | Dance | 19 | :x: |
+&nbsp; | Eighty | 7 | :x: |
+&nbsp; | Ninety | 4 | :x: |
+&nbsp; | Machine | 2 | :x: |
+&nbsp; | Techno | :x: | 4 |
+&nbsp; | Template | :x: | 2 |
+ |  |  | |
+:drum: *AIR Drumsynth (Kick)* | **All** | 145 | :x: |
+&nbsp; | Default | 1 | :x: |
+&nbsp; | Eighty | 20 | :x: |
+&nbsp; | Ninety | 19 | :x: |
+&nbsp; | Driven 8 | 7 | :x: |
+&nbsp; | Hybrid | 4 | :x: |
+&nbsp; | Transe | 2 | :x: |
+&nbsp; | Natural A | :x: | 4 |
+&nbsp; | Natural B | :x: | 2 |
+&nbsp; | Hard 1 | 2 | :x: |
+&nbsp; | Hard 2 | :x: | 4 |
+&nbsp; | Clipped | :x: | 2 |
+&nbsp; | Bass | 2 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Snare)** | | 77 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Hi-Hat)** | | 139 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Ride)** | | 26 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Clap)** || 52 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Tom)** | | 49 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Percussion)** | | 122 | :x: |
+&nbsp; | Default | 1 | :x: |
+ |  |  | |
+:drum: **AIR Drumsynth (Crash)** | | 63 | :x: |
+&nbsp; | Default | 1 | :x: |
