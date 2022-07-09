@@ -31,26 +31,26 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 - **Drumsynth Plugins References:** [Models Types](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
     - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md) | [<ins>Downloads</ins>]()
-    - **Drumsynth Kick Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Snare Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Hihat Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Clap Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Percussion Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Tom Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Crash Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-    - **Drumsynth Ride Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Solina Plugin References:** [Presets List]() | [Skins Structure](Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>]()
-- **Hype Plugin References:**[Presets List]() | [Skins Structure](Instruments-API-Hype%20GUI.md) | [<ins>Downloads</ins>]()
-- **Mellotron Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Odyssey Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Electric Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Tubesynth Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Bassline Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Kick Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Snare Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Hihat Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Clap Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Percussion Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Tom Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Crash Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+    - **Drumsynth Ride Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>]()
+- **Hype Plugin References:**[Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Hype%20GUI.md) | [<ins>Downloads</ins>]()
+- **Mellotron Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Odyssey Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Electric Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Tubesynth Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Bassline Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
 
 ### Fx Plugins
 
-- **Amp Sim Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Channel Strip Plugin References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Amp Sim Plugin References:** [Presets List](Plugins%20API%20Documentation/Fx-API-Amp%20Sim%20Presets.md) | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Channel Strip Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
 
 ### General UI
 
