@@ -4,9 +4,11 @@
 
 # Drumsynth Models API (2.11x)
 
-## Basic structure of the Presets
+## Basic structure of the XPL Presets, ADSM & ADSS Files Contents
 
-Each preset is composed from several parameters and values. We must note that basicaly each type of instruments has differents parameters! Let´s look first at the basic principle of models per type.
+Each preset is composed from several parameters and values. We must note that basicaly each type of instruments has differents parameters! Let´s look first at the basic principle of models per type. Each model contains a structured content, including parameters and data.<br>
+**.adsm** = Air Drum Synth Model<br>
+**.adss** = Air Drum Synth Structure
 
 ### Kick
 
