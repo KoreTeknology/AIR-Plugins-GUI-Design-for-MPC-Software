@@ -39,7 +39,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
     - **Drumsynth Tom Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
     - **Drumsynth Crash Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
     - **Drumsynth Ride Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
-- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>]()
+- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/DOWNLOADS.md#custom-air-plugins-themes-releases---full-skin-packages)
 - **Hype Plugin References:**[Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Hype%20GUI.md) | [<ins>Downloads</ins>]()
 - **Mellotron Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
 - **Odyssey Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>]()
@@ -59,19 +59,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
-## :radio_button: History
-
-I started to develop user interfaces for audio products in the years 2001, for physical machines as well as for virtual machines. I have been a programmer and musician since very young and all my energy is professionally oriented to satisfy users in the handling of their work or entertainment tools. I participate in several software research and development groups of which this page is a recent production section. I am a fan of the products distributed by the company InMusicBrands which distributes among other things the Akai brand all over the world. In 2020, I acquired the MPC software 2 software, an overpowering DAW that uses the logic of the sampler sequencer of the same name. Since that time, I have modified most of the theme files supplied with the software, in order to personalize my instruments and effects.
-
-Since the release of version 2.10, new instruments have been added to the existing list and the instruments really deserve special attention, mainly for the very good quality audio engines, the functions offered in quantity and ... ergonomics. which was not really adapted to users and their requirements. I must say that after analyzing the code of the themes and the images provided, I understand that the design of the plugins was not a priority for the development group, it is basic, poorly organized and the visuals are poor, but it is simply my professional opinion in this area. Overall, I appreciate the design that Akai provides in its consumer products.
-
-So I decided to distribute and update my themes for the new instruments as well as for some elements of the main software interface. They are therefore offered free of charge to all, in exchange for accepting the license. Be sure to read it before clicking the download button, as it commits you to preserving the content and making it free for everyone.
-
-Enjoy!
-
----
-
-## :radio_button: Acknowledgments
+## Acknowledgments
 
 * This work is dedicated to all Akai MPC users ;)
 * **I do  this work during my free time, so please, be patient for the release of new themes** :)
@@ -80,7 +68,7 @@ Enjoy!
 
 ---
 
-## :radio_button: Author(s)
+## Author(s)
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
 >>> Add your name there, and contribute to the project !
@@ -88,9 +76,18 @@ Enjoy!
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
 
+I started to develop user interfaces for audio products in the years 2001, for physical machines as well as for virtual machines. I have been a programmer and musician since very young and all my energy is professionally oriented to satisfy users in the handling of their work or entertainment tools. I participate in several software research and development groups of which this page is a recent production section. I am a fan of the products distributed by the company InMusicBrands which distributes among other things the Akai brand all over the world. In 2020, I acquired the MPC software 2 software, an overpowering DAW that uses the logic of the sampler sequencer of the same name. Since that time, I have modified most of the theme files supplied with the software, in order to personalize my instruments and effects.
+
+Since the release of version 2.10, new instruments have been added to the existing list and the instruments really deserve special attention, mainly for the very good quality audio engines, the functions offered in quantity and ... ergonomics. which was not really adapted to users and their requirements. I must say that after analyzing the code of the themes and the images provided, I understand that the design of the plugins was not a priority for the development group, it is basic, poorly organized and the visuals are poor, but it is simply my professional opinion in this area. Overall, I appreciate the design that Akai provides in its consumer products.
+
+So I decided to distribute and update my themes for the new instruments as well as for some elements of the main software interface. They are therefore offered free of charge to all, in exchange for accepting the license. Be sure to read it before clicking the download button, as it commits you to preserving the content and making it free for everyone.
+
+Enjoy!<br>
+Uriel
+
 ---
 
-## :radio_button: License
+## License
 
 This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] uriel Deveaud [Quadraphonics], 2021
 
