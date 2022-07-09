@@ -9,7 +9,7 @@
 </p>
 <h2 align="center">!!! Updated for API Release 2.11.2 and above !!!</h2>
 
-![Header](header_project_customGUI.jpg)
+![Header](header_project_customGUI_v2.jpg)
 
 [comment]: <> (This is a comment, it will not be included)
   
@@ -80,9 +80,10 @@ Enjoy!
 
 ---
 
-## :radio_button: Author
+## :radio_button: Author(s)
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) @Quadraphonics from 2001
+>>> Add your name there, and contribute to the project !
 
 Please, feel free to contact me, and/or discuss further developments or ideas for those files, thanks ;)<br/>
 Collaboration projects are always welcome!</p>
