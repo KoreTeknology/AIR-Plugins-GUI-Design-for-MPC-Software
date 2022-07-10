@@ -57,6 +57,11 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 - **Mixer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 - **Sequencer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 
+### Project Templates
+
+- **Startup:** [Templates List]()  | [<ins>Downloads</ins>]()
+- **Fx Racks:** [Templates List]() | [<ins>Downloads</ins>]()
+
 ---
 
 ## Acknowledgments
