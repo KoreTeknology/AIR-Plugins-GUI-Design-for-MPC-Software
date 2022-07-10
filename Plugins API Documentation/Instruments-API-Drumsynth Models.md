@@ -1,4 +1,4 @@
-[<< Back to main page](/../..) ```Audio Plugins Skins and Presets - uriel Deveaud @2022 ```
+[<< Back to main page](/../..)
 
 ---
 
@@ -49,6 +49,11 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <table>
 
+ ### Models Content Table (.adsm file type)
+ 
+ ...
+ 
+ 
 ## Instruments Definition
   
 ### Kick
