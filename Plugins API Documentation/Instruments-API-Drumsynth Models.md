@@ -55,27 +55,29 @@ Each preset is composed from several parameters and values. We must note that ba
  
 <table>
 <tr>
-<th align="left", width="100">Col. 1</th>
-<th align="left", width="100">Col. 2</th>
+<th align="left", width="60">Col. 1</th>
+<th width="0"></th>
+<th align="left", width="80">Col. 2</th>
 <th align="left", width="100">Col. 3</th>
 <th align="left", width="100">Col. 4</th>
 <th align="left", width="100">Col. 5</th>
 <th align="left", width="100">Col. 6</th>
 <th align="left", width="100">Col. 7</th>
-<th align="left", width="100">Col. 8</th>
-<th align="left", width="100">Col. 9</th>
-<th align="left", width="100">Col. 10</th>
+<th align="left", width="110">Col. 8</th>
+<th align="left", width="110">Col. 9</th>
+<th align="left", width="120">Col. 10</th>
 </tr>
 <tr>
- <td>Type</td>
+ <td>Macro</td>
+ <td></td>
  <td>Order</td>
- <td>Value</td>
- <td>Value</td>
- <td>Value</td>
- <td>Value</td>
- <td>Value</td>
- <td>Value</td>
- <td>Value</td>
+ <td>Type</td>
+ <td>?</td>
+ <td>Value Min.</td>
+ <td>Value Max.</td>
+ <td>?</td>
+ <td>Def</td>
+ <td>Default</td>
  <td>Name</td>
 </tr>
 <table>
