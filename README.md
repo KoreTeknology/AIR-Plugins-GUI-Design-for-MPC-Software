@@ -68,9 +68,8 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 **How to install**, please, be sure to read the [Tutorials section](TUTORIALS.md)
 
-```diff 
-Each plateform has a dedicated section and procedure to add custom contents, don´t mess with this or it will be unusable!
-```
+> Each plateform has a dedicated section and procedure to add custom contents, don´t mess with this or it will be unusable!
+
 
 ---
 
