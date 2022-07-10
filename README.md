@@ -64,6 +64,12 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ---
 
+## Tutorials
+
+**How to install**, please, be sure to read the [Tutorials section](TUTORIALS.md)
+
+---
+
 ## Acknowledgments
 
 * This work is dedicated to all Akai MPC users ;)
@@ -94,7 +100,7 @@ Uriel
 
 ## License
 
-This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] uriel Deveaud [Quadraphonics], 2021
+This work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] - 2021
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
