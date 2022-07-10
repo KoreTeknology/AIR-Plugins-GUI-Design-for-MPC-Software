@@ -1,6 +1,8 @@
 <h1 align="center">Downloads</h1>
 
-## CUSTOM AIR PLUGINS THEMES RELEASES  ( Full Skin Packages) 
+---
+
+<h2 align="center">CUSTOM AIR PLUGINS THEMES RELEASES  ( Full Skin Packages)</h2>
 
 <table>
 <tr>
@@ -42,8 +44,8 @@
 <table>
 
 ---
-
-## EXTRA MAIN UI THEMES RELEASES  (Skin Elements Packages) 
+ 
+<h2 align="center">EXTRA MAIN UI THEMES RELEASES  (Skin Elements Packages) </h2>
 
 <table>
 <tr>
