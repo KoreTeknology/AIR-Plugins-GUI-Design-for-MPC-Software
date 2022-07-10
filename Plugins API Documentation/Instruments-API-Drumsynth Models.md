@@ -49,14 +49,41 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <table>
 
- ### Models Content Table (.adsm file type)
+### Models Content Table (.adsm file type)
  
- ...
+**Param. Offset Data**
+ 
+<table>
+<tr>
+<th align="left", width="100">Col. 1</th>
+<th align="left", width="100">Col. 2</th>
+<th align="left", width="100">Col. 3</th>
+<th align="left", width="100">Col. 4</th>
+<th align="left", width="100">Col. 5</th>
+<th align="left", width="100">Col. 6</th>
+<th align="left", width="100">Col. 7</th>
+<th align="left", width="100">Col. 8</th>
+<th align="left", width="100">Col. 9</th>
+<th align="left", width="100">Col. 10</th>
+</tr>
+<tr>
+ <td>Type</td>
+ <td>Order</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Value</td>
+ <td>Name</td>
+</tr>
+<table>
  
  
-## Instruments Definition
+## Instruments Definition: KICK
   
-### Kick
+### Main Kick Models Definition
 
 Model Name | Parameters | .adsm file | .adss file | Default |
 :--------------------------------------- | :--- | :---: | :---: |:---: |
@@ -71,3 +98,34 @@ Hard 1 | *Tune, Hold, Decay, Harm, Dist, Beat, High, Noise* | Hard1.adsm | Hard1
 Hard 2 | *Tune, Hold, Decay, Sweep, Click, Hi-Hat, HH-Dec, HH-Tune* | Hard2.adsm | Hard2.adss |:heavy_check_mark: |
 Clipped | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Click* | Clipped.adsm | Clipped.adss |:heavy_check_mark: |
 Custom 1 | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Noise* | Custom1.adsm | Custom1.adss |:x: |
+
+### CLIPPED Model ParamOffset (1)
+ 
+<table>
+<tr>
+<th align="left", width="100">Col. 1</th>
+<th align="left", width="100">Col. 2</th>
+<th align="left", width="100">Col. 3</th>
+<th align="left", width="100">Col. 4</th>
+<th align="left", width="100">Col. 5</th>
+<th align="left", width="100">Col. 6</th>
+<th align="left", width="100">Col. 7</th>
+<th align="left", width="100">Col. 8</th>
+<th align="left", width="100">Col. 9</th>
+<th align="left", width="100">Col. 10</th>
+</tr>
+<tr>
+ <td>Macro</td>
+ <td>0</td>
+ <td>Param</td>
+ <td>257</td>
+ <td>0.01738</td>
+ <td>0.9556</td>
+ <td>0</td>
+ <td>Def</td>
+ <td>0.0805</td>
+ <td>Tune</td>
+</tr>
+<table> 
+ 
+ 
