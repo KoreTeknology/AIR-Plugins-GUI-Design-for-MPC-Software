@@ -1,10 +1,19 @@
 # Tutorials
 
-## How to install custom Instruments plugins Skins in Software Releases (PC/Mac)
+## How to install Skins
+
+### Custom Instruments plugins in Software Releases (PC/Mac)
 
 ...TODO
 
-## How to install custom Instruments plugins Skins in Standalone Releases (One/Live/Live II/X/Key)
+### Custom Instruments plugins in Standalone Releases (One/Live/Live II/X/Key)
 
 ...TODO
 
+### Custom GUI elements
+
+... TODO
+
+## How to install Instruments plugins Presets
+
+... TODO
