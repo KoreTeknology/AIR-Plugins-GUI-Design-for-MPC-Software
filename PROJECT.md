@@ -2,7 +2,7 @@
 
 ## Repository Setup
 
-- [x] Step 1: Setup home page menu
+- [x] Step 1: Setup home page frame
 - [x] Step 2: Setup "API Documentation section"
 - [x] Step 3: Setup the "tutorials section"
 - [x] Step 4: Setup the "repositories section"
@@ -10,15 +10,14 @@
 
 ## Documentation Setup
 
-- [x] Step 1: Setup documentation structure
-- [x] Step 2: Add Custom Mixer Elements package and documentation
-- [ ] Step 3: Add Drumsynth package and documentation
+- [x] Step 1: Add Setup documentation structure
+- [x] Step 2: Add API documentation
+- [ ] Step 3: Add Drumsynth documentation
 
 ## Custom Contents Setup and libraries
 
-- [x] Step 1: Setup documentation structure
-- [x] Step 2: Add Custom Mixer Elements package and documentation
-- [ ] Step 3: Add Drumsynth package and documentation
+- [ ] Solina Custom skin for Software release
+- [x] Mixer fader for soft. and Standalone
 
 ---
 
