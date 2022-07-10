@@ -1,15 +1,5 @@
 # API Solina GUI
 
-## Structure of the main interface
-
-![Solina preview](images/structure-solina.jpg)
-
-## Proposal for Custom GUI
-
-![proposal preview](images/v094_compare.jpg)
-
----
-
 ## The structured data/setup files:
 
 | GUI structure: JSON files |  Data | Weight (Kb) |
@@ -241,3 +231,12 @@ Line 1026 - Data Bloc
 "bounds": "0 255 121 28"
 ```
 
+---
+
+## Structure of the main interface
+
+![Solina preview](images/structure-solina.jpg)
+
+## Proposal for Custom GUI
+
+![proposal preview](images/v094_compare.jpg)
