@@ -15,7 +15,7 @@
   
 ### A Collection of GUI Redesign for AIR Instruments/Fx Plugins, used in Akai MPC Softwares
 
-The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i can invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
+The aim of this project is to serve a serie of new "Design" for the [**AIR Audio Plugins**](https://www.airmusictech.com/) and the [**AKAI Audio Plugins**]() included into the latest release of Akai *MPC Software 2x*. If you don´t know about this DAW, i can invite you to go and visit their site: [**Akaipro.com**](https://www.akaipro.com/mpc-software). 
 The new themes packages will be distributed and available as **FREE Download** on our [Facebook Fans Page](https://www.facebook.com/groups/2455369201273499), stay tuned for more to come... 
 
 This project is all about distributing new theme packages that contains a set of graphics files and XML files which allows a **redesign of the plugins** supplied with the MPC software of the famous **Akai** brand. Each plugins is built from a base, the background and elements such as faders, knobs, and other controllers. The XML file contains all the information about the placement of these elements on the surface of the user interface. You will find in this project several files and documents. From there you can **download** the files for your plugin OR/AND **learn** from the tutorials how to do your own theme.
