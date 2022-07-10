@@ -54,7 +54,7 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ### General UI
 
-- **Mixer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
+- **Mixer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md#extra-main-ui-themes-releases--skin-elements-packages)
 - **Sequencer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>]()
 
 ### Project Templates
