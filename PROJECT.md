@@ -1,12 +1,24 @@
 # Project Tasklist
 
-- [x] Step 1: Setup home page and documentation structure
-- [x] Step 2: Setup API Documentation Structure
+## Repository Setup
+
+- [x] Step 1: Setup home page menu
+- [x] Step 2: Setup "API Documentation section"
 - [x] Step 3: Setup the "tutorials section"
 - [x] Step 4: Setup the "repositories section"
 - [x] Step 5: Setup the "license section"
-- [x] Step 6: Add Custom Mixer Elements package and documentation
-- [ ] Step 7: Add Drumsynth package and documentation
+
+## Documentation Setup
+
+- [x] Step 1: Setup documentation structure
+- [x] Step 2: Add Custom Mixer Elements package and documentation
+- [ ] Step 3: Add Drumsynth package and documentation
+
+## Custom Contents Setup and libraries
+
+- [x] Step 1: Setup documentation structure
+- [x] Step 2: Add Custom Mixer Elements package and documentation
+- [ ] Step 3: Add Drumsynth package and documentation
 
 ---
 
