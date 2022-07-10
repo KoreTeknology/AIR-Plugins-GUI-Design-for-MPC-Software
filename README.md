@@ -35,37 +35,37 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 ### Instruments Plugins
 
 - **Drumsynth Plugins References:** [Models Types](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
-    - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md) | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Kick Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Snare Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Hihat Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Clap Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Percussion Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Tom Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Crash Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-    - **Drumsynth Ride Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md) | [<ins>Downloads</ins>](https://github.com/KoreTeknology/AIR-Plugins-GUI-Design-for-MPC-Software/blob/main/DOWNLOADS.md#custom-air-plugins-themes-releases---full-skin-packages)
-- **Hype Plugin References:**[Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Hype%20GUI.md) | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Mellotron Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Odyssey Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Electric Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Tubesynth Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Bassline Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
+    - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md)
+    - **Drumsynth Kick Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Snare Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Hihat Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Clap Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Percussion Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Tom Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Crash Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Ride Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Solina Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Solina%20GUI.md)
+- **Hype Plugin References:**[Presets List](Plugins%20API%20Documentation/) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Hype%20GUI.md)
+- **Mellotron Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Odyssey Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Electric Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Tubesynth Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+- **Bassline Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
 
 ### Fx Plugins
 
-- **Amp Sim Plugin References:** [Presets List](Plugins%20API%20Documentation/Fx-API-Amp%20Sim%20Presets.md) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Channel Strip Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
+- **Amp Sim Plugin References:** [Presets List](Plugins%20API%20Documentation/Fx-API-Amp%20Sim%20Presets.md) | [Skins Structure]()
+- **Channel Strip Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
 
 ### General UI
 
-- **Mixer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Sequencer References:** [Presets List]() | [Skins Structure]() | [<ins>Downloads</ins>](DOWNLOADS.md)
+- **Mixer References:** [Presets List]() | [Skins Structure]()
+- **Sequencer References:** [Presets List]() | [Skins Structure]()
 
 ### Project Templates
 
-- **Startup:** [Templates List]()  | [<ins>Downloads</ins>](DOWNLOADS.md)
-- **Fx Racks:** [Templates List]() | [<ins>Downloads</ins>](DOWNLOADS.md)
+- **Startup:** [Templates List]()
+- **Fx Racks:** [Templates List]()
 
 ---
 
