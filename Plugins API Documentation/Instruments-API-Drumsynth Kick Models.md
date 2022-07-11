@@ -1,8 +1,10 @@
-# Kick Models
+[<< Back to main page](/../..)
 
-## Instruments Definition: KICK
-  
-### Main Kick Models Definition
+---
+
+# Kick Models API (2.11x)
+
+## Available Synthesis Models
 
 Model Name | Parameters | .adsm file | .adss file | Default |
 :--------------------------------------- | :--- | :---: | :---: |:---: |
@@ -17,6 +19,71 @@ Hard 1 | *Tune, Hold, Decay, Harm, Dist, Beat, High, Noise* | Hard1.adsm | Hard1
 Hard 2 | *Tune, Hold, Decay, Sweep, Click, Hi-Hat, HH-Dec, HH-Tune* | Hard2.adsm | Hard2.adss |:heavy_check_mark: |
 Clipped | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Click* | Clipped.adsm | Clipped.adss |:heavy_check_mark: |
 Custom 1 | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Noise* | Custom1.adsm | Custom1.adss |:x: |
+
+## Kick Models Instrument Definition
+
+<table>
+ <tr><H3>EIGHTY</h3> Param. Offset Data Table (.adsm file type)</tr>
+<tr>
+<th align="left", width="120">Column:</th>
+<th align="center", width="60">1</th>
+<th align="center", width="60">2</th>
+<th align="center", width="60">3</th>
+<th align="center", width="60">4</th>
+<th align="center", width="120">5</th>
+<th align="center", width="120">6</th>
+<th align="center", width="60">7</th>
+<th align="center", width="60">8</th>
+<th align="center", width="120">9</th>
+<th align="center", width="60">10</th>
+</tr>
+<tr>
+ <td><b>Content:</b></td>
+ <td align="center">Level</td>
+ <td align="center">Order</td>
+ <td align="center">Type</td>
+ <td align="center">Type Value</td>
+ <td align="center">Minimum Value</td>
+ <td align="center">Maximum Value</td>
+ <td align="center">Null</td>
+ <td align="center">Def</td>
+ <td align="center">Default Value</td>
+ <td align="center">Name</td>
+</tr>
+<tr>
+ <td><b>Data type:</b></td>
+ <td align="center">STRING</td>
+ <td align="center">INTEGER</td>
+ <td align="center">STRING</td>
+ <td align="center">INTEGER</td>
+ <td align="center">FLOAT</td>
+ <td align="center">FLOAT</td>
+ <td align="center">INTEGER</td>
+ <td align="center">STRING</td>
+ <td align="center">FLOAT</td>
+ <td align="center">STRING</td>
+</tr>
+ <tr>
+ <td><b>Exemple:</b></td>
+ <td align="center">Macro</td>
+ <td align="center">2</td>
+ <td align="center">Param</td>
+ <td align="center">255</td>
+ <td align="center">0.01736</td>
+ <td align="center">0.9556</td>
+ <td align="center">0</td>
+ <td align="center">Def</td>
+ <td align="center">0.50</td>
+ <td align="center">Hold</td>
+</tr>
+<table>
+
+```diff 
+ParamOffest 1
+Macro  0  Param  257  0.01736  0.9556  0  Def  0.0805  Tune
+Macro  1  Param  255  0.00     0.50    0  Def  0.50    Hold
+```
+
 
 ### CLIPPED Model ParamOffset (1)
  
