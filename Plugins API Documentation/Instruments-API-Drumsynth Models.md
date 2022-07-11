@@ -50,7 +50,7 @@ Each preset is composed from several parameters and values. We must note that ba
 <table>
 
 <table>
- <tr><H3>Param. Offset Data / Models Content Table (.adsm file type)</h3></tr>
+ <tr><H3>Param. Offset Data / Models Content Table</h3></tr>
 <tr>
 <th align="left", width="120">Column:</th>
 <th align="center", width="60">1</th>
@@ -108,7 +108,7 @@ Each preset is composed from several parameters and values. We must note that ba
  <b>* is that binary data ? 0/1, for what ? most models contain this <i>null</i> data</b>
  
  
-## File structure & Models Content Table (.adsm file type)
+## File structure (.adsm file type)
   
 ```diff 
 ParamOffest 1
