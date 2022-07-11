@@ -23,7 +23,7 @@ Custom 1 | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Noise* | Custom1.ad
 ## Kick Models Instrument Definition
 
 <table>
- <tr><H3>EIGHTY</h3> Param. Offset Data Table (.adsm file type)</tr>
+ <tr><H3>EIGHTY / Param. Offset Data Table (.adsm file type)</h3></tr>
 <tr>
 <th align="left", width="120">Column:</th>
 <th align="center", width="60">1</th>
@@ -85,38 +85,3 @@ Macro  1  Param  255  0.00     0.50    0  Def  0.50    Hold
 ```
 
 
-### CLIPPED Model ParamOffset (1)
- 
-<table>
-<tr>
-<th align="left", width="100">Col. 1</th>
-<th align="left", width="100">Col. 2</th>
-<th align="left", width="100">Col. 3</th>
-<th align="left", width="100">Col. 4</th>
-<th align="left", width="100">Col. 5</th>
-<th align="left", width="100">Col. 6</th>
-<th align="left", width="100">Col. 7</th>
-<th align="left", width="100">Col. 8</th>
-<th align="left", width="100">Col. 9</th>
-<th align="left", width="100">Col. 10</th>
-</tr>
-<tr>
- <td>Macro</td>
- <td>0</td>
- <td>Param</td>
- <td>257</td>
- <td>0.01738</td>
- <td>0.9556</td>
- <td>0</td>
- <td>Def</td>
- <td>0.0805</td>
- <td>Tune</td>
-</tr>
-<table> 
- 
- 
-```diff 
-ParamOffest 1
-Macro  0  Param  257  0.01736  0.9556  0  Def  0.0805  Tune
-Macro  1  Param  255  0.00     0.50    0  Def  0.50    Hold
-```
