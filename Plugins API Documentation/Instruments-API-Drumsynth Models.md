@@ -49,51 +49,63 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <table>
 
-### Models Content Table (.adsm file type)
- 
-**Param. Offset Data**
- 
 <table>
+ <tr><H3>Param. Offset Data / Models Content Table (.adsm file type)</h3></tr>
 <tr>
 <th align="left", width="120">Column:</th>
 <th align="center", width="60">1</th>
 <th align="center", width="60">2</th>
-<th align="center", width="90">3</th>
-<th align="center", width="90">4</th>
-<th align="center", width="90">5</th>
-<th align="center", width="90">6</th>
-<th align="center", width="90">7</th>
-<th align="center", width="90">8</th>
-<th align="center", width="90">9</th>
-<th align="center", width="90">10</th>
+<th align="center", width="60">3</th>
+<th align="center", width="60">4</th>
+<th align="center", width="120">5</th>
+<th align="center", width="120">6</th>
+<th align="center", width="60">7</th>
+<th align="center", width="60">8</th>
+<th align="center", width="120">9</th>
+<th align="center", width="60">10</th>
 </tr>
 <tr>
  <td><b>Content:</b></td>
- <td>Macro</td>
- <td>Order</td>
- <td>Type</td>
- <td>?</td>
- <td>Value Min.</td>
- <td>Value Max.</td>
- <td>?</td>
- <td>Def</td>
- <td>Default</td>
- <td>Name</td>
+ <td align="center">Level</td>
+ <td align="center">Order</td>
+ <td align="center">Type</td>
+ <td align="center">Type Value</td>
+ <td align="center">Minimum Value</td>
+ <td align="center">Maximum Value</td>
+ <td align="center">?*</td>
+ <td align="center">Def</td>
+ <td align="center">Default Value</td>
+ <td align="center">Name</td>
 </tr>
 <tr>
  <td><b>Data type:</b></td>
- <td>STRING</td>
- <td>INTEGER</td>
- <td>STRING</td>
- <td>INTEGER</td>
- <td>FLOAT</td>
- <td>FLOAT</td>
- <td>INTEGER</td>
- <td>STRING</td>
- <td>FLOAT</td>
- <td>STRING</td>
+ <td align="center">STRING</td>
+ <td align="center">INTEGER</td>
+ <td align="center">STRING</td>
+ <td align="center">INTEGER</td>
+ <td align="center">FLOAT</td>
+ <td align="center">FLOAT</td>
+ <td align="center">INTEGER</td>
+ <td align="center">STRING</td>
+ <td align="center">FLOAT</td>
+ <td align="center">STRING</td>
+</tr>
+ <tr>
+ <td><b>Exemple:</b></td>
+ <td align="center">Macro</td>
+ <td align="center">2</td>
+ <td align="center">Param</td>
+ <td align="center">255</td>
+ <td align="center">0.01736</td>
+ <td align="center">0.9556</td>
+ <td align="center">0</td>
+ <td align="center">Def</td>
+ <td align="center">0.50</td>
+ <td align="center">Hold</td>
 </tr>
 <table>
+ 
+* ? is that binary data ? 0/1, for what ?
  
  
 ## Instruments Definition: KICK
