@@ -34,9 +34,9 @@ By Downloading these files packages, you are accepting the terms of the CC BY NC
 
 ### Instruments Plugins
 
-- **Drumsynth Plugins References:** [Models Types](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
+- **Drumsynth Plugins References:** [Drums Models Definition](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Models.md)
     - **Drumsynth Multi Plugin References:** [Presets List](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20Presets.md) | [Skins Structure](Plugins%20API%20Documentation/Instruments-API-Drumsynth%20Multi%20GUI.md)
-    - **Drumsynth Kick Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
+    - **Drumsynth Kick Plugin References:** [Kick Models]() | [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
     - **Drumsynth Snare Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
     - **Drumsynth Hihat Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
     - **Drumsynth Clap Plugin References:** [Presets List](Plugins%20API%20Documentation/) | [Skins Structure]()
