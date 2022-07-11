@@ -105,7 +105,7 @@ Each preset is composed from several parameters and values. We must note that ba
 </tr>
 <table>
  
-* ? is that binary data ? 0/1, for what ?
+ <b>* is that binary data ? 0/1, for what ? most models contain this <i>null</i> data</b>
  
  
 ## Instruments Definition: KICK
@@ -156,3 +156,8 @@ Custom 1 | *Tune, Hold, Decay, Sweep, Clip, Character, Soft, Noise* | Custom1.ad
 <table> 
  
  
+```diff 
+ParamOffest 1
+Macro  0  Param  257  0.01736  0.9556  0  Def  0.0805  Tune
+Macro  1  Param  255  0.00     0.50    0  Def  0.50    Hold
+```
