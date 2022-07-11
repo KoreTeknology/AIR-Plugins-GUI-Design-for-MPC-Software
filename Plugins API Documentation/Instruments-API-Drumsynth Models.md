@@ -55,20 +55,20 @@ Each preset is composed from several parameters and values. We must note that ba
  
 <table>
 <tr>
-<th align="left", width="20">Col.</th>
+<th align="left", width="120">Column:</th>
 <th align="center", width="60">1</th>
 <th align="center", width="60">2</th>
-<th align="center", width="100">3</th>
-<th align="center", width="100">4</th>
-<th align="center", width="100">5</th>
-<th align="center", width="100">6</th>
-<th align="center", width="100">7</th>
-<th align="center", width="110">8</th>
-<th align="center", width="110">9</th>
-<th align="center", width="120">10</th>
+<th align="center", width="90">3</th>
+<th align="center", width="90">4</th>
+<th align="center", width="90">5</th>
+<th align="center", width="90">6</th>
+<th align="center", width="90">7</th>
+<th align="center", width="90">8</th>
+<th align="center", width="90">9</th>
+<th align="center", width="90">10</th>
 </tr>
 <tr>
- <td><a href="">Content</a></td>
+ <td><b>Content:</b></td>
  <td>Macro</td>
  <td>Order</td>
  <td>Type</td>
@@ -81,7 +81,7 @@ Each preset is composed from several parameters and values. We must note that ba
  <td>Name</td>
 </tr>
 <tr>
- <td><a href="">Data</a></td>
+ <td><b>Data type:</b></td>
  <td>STRING</td>
  <td>INTEGER</td>
  <td>STRING</td>
