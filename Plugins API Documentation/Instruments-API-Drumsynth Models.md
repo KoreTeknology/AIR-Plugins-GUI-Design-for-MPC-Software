@@ -55,21 +55,21 @@ Each preset is composed from several parameters and values. We must note that ba
  
 <table>
 <tr>
-<th align="left", width="60">Col. 1</th>
-<th width="0"></th>
-<th align="left", width="80">Col. 2</th>
-<th align="left", width="100">Col. 3</th>
-<th align="left", width="100">Col. 4</th>
-<th align="left", width="100">Col. 5</th>
-<th align="left", width="100">Col. 6</th>
-<th align="left", width="100">Col. 7</th>
-<th align="left", width="110">Col. 8</th>
-<th align="left", width="110">Col. 9</th>
-<th align="left", width="120">Col. 10</th>
+<th align="left", width="20">Col.</th>
+<th align="center", width="60">1</th>
+<th align="center", width="60">2</th>
+<th align="center", width="100">3</th>
+<th align="center", width="100">4</th>
+<th align="center", width="100">5</th>
+<th align="center", width="100">6</th>
+<th align="center", width="100">7</th>
+<th align="center", width="110">8</th>
+<th align="center", width="110">9</th>
+<th align="center", width="120">10</th>
 </tr>
 <tr>
+ <td><a href="">Content</a></td>
  <td>Macro</td>
- <td></td>
  <td>Order</td>
  <td>Type</td>
  <td>?</td>
@@ -79,6 +79,19 @@ Each preset is composed from several parameters and values. We must note that ba
  <td>Def</td>
  <td>Default</td>
  <td>Name</td>
+</tr>
+<tr>
+ <td><a href="">Data</a></td>
+ <td>STRING</td>
+ <td>INTEGER</td>
+ <td>STRING</td>
+ <td>INTEGER</td>
+ <td>FLOAT</td>
+ <td>FLOAT</td>
+ <td>INTEGER</td>
+ <td>STRING</td>
+ <td>FLOAT</td>
+ <td>STRING</td>
 </tr>
 <table>
  
